@@ -1,0 +1,35 @@
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - affirm+goodbye
+  - meetup
+  - affirm+asktransport
+
+
+
+templates:
+  utter_greet:
+    - "Hey, how can I help you?"
+  utter_goodbye:
+    - "Talk to you later!"
+  utter_affirm:
+    - "Cool. Let me book the spot for you."
+  utter_confirm:
+    - "All done."
+  utter_affirm+goodbye:
+    - "Ok, cool. I will send you a confirmation once it's done."
+  utter_meetup:
+    - "Rasa Bots Berlin meetup is definitely worth checking out! Would you like to attend the upcoming one?"
+  utter_affirm+suggest_transport:
+    - "Great, I have booked a spot for you. The venue is next to the Alexanderplatz so you can take a U-Bahn U2."
+
+
+actions:
+  - utter_greet
+  - utter_goodbye
+  - utter_affirm
+  - utter_affirm+goodbye
+  - utter_meetup
+  - utter_affirm+suggest_transport
+  - utter_confirm

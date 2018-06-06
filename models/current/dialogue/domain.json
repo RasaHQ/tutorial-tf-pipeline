@@ -1,0 +1,19 @@
+{
+  "states": [
+    "intent_greet",
+    "intent_goodbye",
+    "intent_affirm",
+    "intent_affirm+goodbye",
+    "intent_meetup",
+    "intent_affirm+asktransport",
+    "prev_action_listen",
+    "prev_action_restart",
+    "prev_utter_greet",
+    "prev_utter_goodbye",
+    "prev_utter_affirm",
+    "prev_utter_affirm+goodbye",
+    "prev_utter_meetup",
+    "prev_utter_affirm+suggest_transport",
+    "prev_utter_confirm"
+  ]
+}

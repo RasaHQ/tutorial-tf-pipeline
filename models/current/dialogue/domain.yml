@@ -1,0 +1,46 @@
+action_factory: null
+action_names:
+- utter_greet
+- utter_goodbye
+- utter_affirm
+- utter_affirm+goodbye
+- utter_meetup
+- utter_affirm+suggest_transport
+- utter_confirm
+actions:
+- utter_greet
+- utter_goodbye
+- utter_affirm
+- utter_affirm+goodbye
+- utter_meetup
+- utter_affirm+suggest_transport
+- utter_confirm
+config:
+  store_entities_as_slots: true
+entities: []
+intents:
+- greet
+- goodbye
+- affirm
+- affirm+goodbye
+- meetup
+- affirm+asktransport
+slots: {}
+templates:
+  utter_affirm:
+  - text: Cool. Let me book the spot for you.
+  utter_affirm+goodbye:
+  - text: Ok, cool. I will send you a confirmation once it's done.
+  utter_affirm+suggest_transport:
+  - text: Great, I have booked a spot for you. The venue is next to the Alexanderplatz
+      so you can take a U-Bahn U2.
+  utter_confirm:
+  - text: All done.
+  utter_goodbye:
+  - text: Talk to you later!
+  utter_greet:
+  - text: Hey, how can I help you?
+  utter_meetup:
+  - text: Rasa Bots Berlin meetup is definitely worth checking out! Would you like
+      to attend the upcoming one?
+topics: []

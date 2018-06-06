@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\PC\\Desktop\\TF_Pipeline_Demo\\models\\current\\nlu_model\\intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\PC\\Desktop\\TF_Pipeline_Demo\\models\\current\\nlu_model\\intent_classifier_tensorflow_embedding.ckpt"
