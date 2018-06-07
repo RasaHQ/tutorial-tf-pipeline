@@ -2,6 +2,7 @@
 
 Back in April, Rasa released a new Tensorflow-based pipeline for NLU models. This repository contains the code for our tutorial on how to use this pipeline to handle multiple intents per input. You can find a detail walkthrough thourhg the code here. The result of this tutorial is a very simple chatbot which can recommend the meetups to attend in Berlin. The example conversation is:
 
+```text
 > U: Hello
 > B: Hello! How can I help you?
 > U: I have just moved to Berlin. Can you recommend any great meetups to attend here?
@@ -10,7 +11,7 @@ Back in April, Rasa released a new Tensorflow-based pipeline for NLU models. Thi
 > B: Great, I have just booked a spot for you and  I will send you a reminder the day before. The venue is next to the Alexanderplatz so you can take a U-Bahn U2.
 > U: Thank you very much! Talk to you later.
 > B: You are very welcome. Goodbye!
-
+```
 
 In oder to keep the main focus on the usage of the new pipeline and to ensure that the tutorial is fully reproducible, we didn't use any custom actions or APIs here. Instead, we would like to encourage you to take this code, build things on top of it and keep us posted on how it goes!
 
