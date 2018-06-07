@@ -6,6 +6,7 @@ intents:
   - thanks+goodbye
   - meetup
   - affirm+ask_transport
+  - ask_transport
 
 
 
@@ -24,6 +25,8 @@ templates:
     - "Rasa Bots Berlin meetup is definitely worth checking out! Would you like to join and attend the nearest meetup on 15th of July?"
   utter_affirm_suggest_transport:
     - "Great, I have just booked a spot for you and  I will send you a reminder the day before. The venue is next to the Alexanderplatz so you can take a U-Bahn U2."
+  utter_suggest_transport:
+    - "If you are going from the centre, catch U-Bahn to Alexanderplatz. The venue is very close to the station."
 
 
 actions:
@@ -34,4 +37,5 @@ actions:
   - utter_thanks_goodbye
   - utter_meetup
   - utter_affirm_suggest_transport
+  - utter_suggest_transport
 

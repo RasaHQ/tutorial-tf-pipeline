@@ -68,6 +68,14 @@
 - Can you suggest any cool meetups in Berlin area?
 - Are there any tech meetups in Berlin worth checking out?
 
+
+## intent: ask_transport
+- How do I get there?
+- Can you tell me what is the easiest way to get to the venue?
+- Tell me how should I get to the venue from home.
+- Do you know how I should get to the venue of the meetup?
+- Can you tell me how to get to the venue?
+
  
 ## intent: affirm+ask_transport
 - Yes. How do I get there?

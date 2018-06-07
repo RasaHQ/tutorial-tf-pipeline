@@ -37,6 +37,8 @@
     - utter_meetup
 * affirm
     - utter_confirm
+* ask_transport
+	- utter_suggest_transport
 * goodbye
 	- utter_goodbye	
 	
@@ -48,8 +50,14 @@
     - utter_meetup
 * affirm
     - utter_confirm
+* ask_transport
+	- utter_suggest_transport	
 * thanks+goodbye
 	- utter_thanks_goodbye		
+	
+	
+	
+		
 	
 	
 	

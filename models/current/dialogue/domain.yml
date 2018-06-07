@@ -7,6 +7,7 @@ action_names:
 - utter_thanks_goodbye
 - utter_meetup
 - utter_affirm_suggest_transport
+- utter_suggest_transport
 actions:
 - utter_greet
 - utter_goodbye
@@ -15,6 +16,7 @@ actions:
 - utter_thanks_goodbye
 - utter_meetup
 - utter_affirm_suggest_transport
+- utter_suggest_transport
 config:
   store_entities_as_slots: true
 entities: []
@@ -26,6 +28,7 @@ intents:
 - thanks+goodbye
 - meetup
 - affirm+ask_transport
+- ask_transport
 slots: {}
 templates:
   utter_affirm:
@@ -44,6 +47,9 @@ templates:
   utter_meetup:
   - text: Rasa Bots Berlin meetup is definitely worth checking out! Would you like
       to join and attend the nearest meetup on 15th of July?
+  utter_suggest_transport:
+  - text: If you are going from the centre, catch U-Bahn to Alexanderplatz. The venue
+      is very close to the station.
   utter_thanks_goodbye:
   - text: You are very welcome. Goodbye!
 topics: []

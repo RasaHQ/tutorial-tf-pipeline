@@ -214,6 +214,26 @@
         "text": "Are there any tech meetups in Berlin worth checking out?"
       },
       {
+        "intent": "ask_transport",
+        "text": "How do I get there?"
+      },
+      {
+        "intent": "ask_transport",
+        "text": "Can you tell me what is the easiest way to get to the venue?"
+      },
+      {
+        "intent": "ask_transport",
+        "text": "Tell me how should I get to the venue from home."
+      },
+      {
+        "intent": "ask_transport",
+        "text": "Do you know how I should get to the venue of the meetup?"
+      },
+      {
+        "intent": "ask_transport",
+        "text": "Can you tell me how to get to the venue?"
+      },
+      {
         "intent": "affirm+ask_transport",
         "text": "Yes. How do I get there?"
       },
