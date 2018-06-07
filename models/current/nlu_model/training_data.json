@@ -87,7 +87,7 @@
       },
       {
         "intent": "goodbye",
-        "text": "Goodbye"
+        "text": "Goodbye bot"
       },
       {
         "intent": "affirm",
@@ -99,103 +99,111 @@
       },
       {
         "intent": "affirm",
-        "text": "awesome"
+        "text": "yes, that sounds good"
       },
       {
         "intent": "affirm",
-        "text": "great"
+        "text": "sure"
       },
       {
         "intent": "affirm",
-        "text": "That's great"
+        "text": "definitely"
       },
       {
         "intent": "affirm",
-        "text": "That's awesome"
+        "text": "absolutely"
       },
       {
         "intent": "affirm",
-        "text": "Sounds cool"
-      },
-      {
-        "intent": "affirm",
-        "text": "cool"
-      },
-      {
-        "intent": "affirm",
-        "text": "yay"
-      },
-      {
-        "intent": "affirm",
-        "text": "great"
-      },
-      {
-        "intent": "affirm",
-        "text": "perfect"
-      },
-      {
-        "intent": "affirm",
-        "text": "That's perfect"
-      },
-      {
-        "intent": "affirm",
-        "text": "thanks"
-      },
-      {
-        "intent": "affirm",
-        "text": "thanks a lot"
+        "text": "please do"
       },
       {
         "intent": "affirm",
         "text": "yes, please"
       },
       {
-        "intent": "affirm+goodbye",
+        "intent": "affirm",
+        "text": "yes for sure"
+      },
+      {
+        "intent": "thanks",
+        "text": "thanks"
+      },
+      {
+        "intent": "thanks",
+        "text": "thank you"
+      },
+      {
+        "intent": "thanks",
+        "text": "Thanks a lot"
+      },
+      {
+        "intent": "thanks",
+        "text": "Thanks a bunch"
+      },
+      {
+        "intent": "thanks",
+        "text": "Thank you very much"
+      },
+      {
+        "intent": "thanks",
+        "text": "Thank you so much"
+      },
+      {
+        "intent": "thanks+goodbye",
         "text": "Awesome. Talk to you later!"
       },
       {
-        "intent": "affirm+goodbye",
-        "text": "Yes, thanks. Bye for now"
+        "intent": "thanks+goodbye",
+        "text": "Thanks. Bye for now"
       },
       {
-        "intent": "affirm+goodbye",
+        "intent": "thanks+goodbye",
         "text": "Awesome, bye bye"
       },
       {
-        "intent": "affirm+goodbye",
+        "intent": "thanks+goodbye",
         "text": "That's great. Goodbye."
       },
       {
-        "intent": "affirm+goodbye",
+        "intent": "thanks+goodbye",
         "text": "Perfect. Talk to you later"
       },
       {
-        "intent": "affirm+goodbye",
+        "intent": "thanks+goodbye",
         "text": "Thanks! Goodbye"
       },
       {
-        "intent": "affirm+goodbye",
-        "text": "That's cool. Talk to you later"
+        "intent": "thanks+goodbye",
+        "text": "Thank you very much. Talk to you later"
       },
       {
-        "intent": "affirm+goodbye",
-        "text": "Nice! See you later."
-      },
-      {
-        "intent": "affirm+goodbye",
+        "intent": "thanks+goodbye",
         "text": "Thanks a lot. Bye for now"
       },
       {
-        "intent": "affirm+goodbye",
-        "text": "Great. Goodbye"
+        "intent": "thanks+goodbye",
+        "text": "Thanks bot. Goodbye"
       },
       {
         "intent": "meetup",
-        "text": "Looking for a tech meetup in the area?"
+        "text": "I am new to the area. What meetups I could join in Berlin?"
       },
       {
         "intent": "meetup",
-        "text": "Hey. I are there any good AI meetups in Berlin?"
+        "text": "I have just moved to Berlin. Can you suggest any cool meetups for me?"
+      },
+      {
+        "intent": "meetup",
+        "text": "I have moved to the area and would like to join some tech meetups. Any suggestions?"
+      },
+      {
+        "intent": "meetup",
+        "text": "Looking for a tech meetup in the area."
+      },
+      {
+        "intent": "meetup",
+        "text": "Are there any good AI meetups in Berlin?"
       },
       {
         "intent": "meetup",
@@ -203,27 +211,35 @@
       },
       {
         "intent": "meetup",
-        "text": "Are there any tech meetups in London worth checking out?"
+        "text": "Are there any tech meetups in Berlin worth checking out?"
       },
       {
-        "intent": "affirm+asktransport",
+        "intent": "affirm+ask_transport",
         "text": "Yes. How do I get there?"
       },
       {
-        "intent": "affirm+asktransport",
+        "intent": "affirm+ask_transport",
         "text": "Sounds good. Do you know how I could get there from home?"
       },
       {
-        "intent": "affirm+asktransport",
+        "intent": "affirm+ask_transport",
         "text": "Yes, please. How do I get there from work?"
       },
       {
-        "intent": "affirm+asktransport",
+        "intent": "affirm+ask_transport",
         "text": "Sure. Can you suggests how should get there?"
       },
       {
-        "intent": "affirm+asktransport",
+        "intent": "affirm+ask_transport",
         "text": "Yes, thanks. I wonder, how should I get to the venue from work?"
+      },
+      {
+        "intent": "affirm+ask_transport",
+        "text": "Yes, definitely. I wonder how should I get to the venue?"
+      },
+      {
+        "intent": "affirm+ask_transport",
+        "text": "Definitely. Can you tell me how could I get to the venue of the meetup?"
       }
     ],
     "regex_features": [],

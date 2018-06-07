@@ -1,2 +1,2 @@
-model_checkpoint_path: "C:\\Users\\PC\\Desktop\\TF_Pipeline_Demo\\models\\current\\nlu_model\\intent_classifier_tensorflow_embedding.ckpt"
-all_model_checkpoint_paths: "C:\\Users\\PC\\Desktop\\TF_Pipeline_Demo\\models\\current\\nlu_model\\intent_classifier_tensorflow_embedding.ckpt"
+model_checkpoint_path: "C:\\Users\\justi\\Desktop\\TF_Pipeline_Demo - Copy\\models\\current\\nlu_model\\intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\justi\\Desktop\\TF_Pipeline_Demo - Copy\\models\\current\\nlu_model\\intent_classifier_tensorflow_embedding.ckpt"

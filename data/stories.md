@@ -1,25 +1,56 @@
 ## greet
 * greet
     - utter_greet
+	
 
 ## goodbye
 * goodbye
     - utter_goodbye
+	
 
 ## meetup
 * meetup
     - utter_meetup
-
-## affirm+goodbye
-* affirm+goodbye
-    - utter_affirm+goodbye
 	
-## find_meetup
+
+## thanks+goodbye
+* thanks+goodbye
+    - utter_thanks_goodbye
+
+	
+## find_meetup_01
+* greet
+    - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
+* thanks+goodbye
+	- utter_thanks_goodbye
+	
+	
+	
+## find_meetup_02
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm
     - utter_confirm
-* affirm+asktransport
-    - utter_affirm+suggest_transport
+* goodbye
+	- utter_goodbye	
+	
+	
+## find_meetup_02
+* greet
+    - utter_greet
+* meetup
+    - utter_meetup
+* affirm
+    - utter_confirm
+* thanks+goodbye
+	- utter_thanks_goodbye		
+	
+	
+	
+	

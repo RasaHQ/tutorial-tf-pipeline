@@ -3,19 +3,16 @@
     "action_listen": {
       "slots": []
     },
-    "utter_greet": {
-      "slots": []
-    },
     "utter_goodbye": {
       "slots": []
     },
-    "utter_affirm+suggest_transport": {
+    "utter_thanks_goodbye": {
       "slots": []
     },
     "utter_meetup": {
       "slots": []
     },
-    "utter_affirm+goodbye": {
+    "utter_greet": {
       "slots": []
     }
   },

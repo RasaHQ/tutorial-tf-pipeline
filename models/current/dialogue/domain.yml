@@ -3,18 +3,18 @@ action_names:
 - utter_greet
 - utter_goodbye
 - utter_affirm
-- utter_affirm+goodbye
-- utter_meetup
-- utter_affirm+suggest_transport
 - utter_confirm
+- utter_thanks_goodbye
+- utter_meetup
+- utter_affirm_suggest_transport
 actions:
 - utter_greet
 - utter_goodbye
 - utter_affirm
-- utter_affirm+goodbye
-- utter_meetup
-- utter_affirm+suggest_transport
 - utter_confirm
+- utter_thanks_goodbye
+- utter_meetup
+- utter_affirm_suggest_transport
 config:
   store_entities_as_slots: true
 entities: []
@@ -22,25 +22,28 @@ intents:
 - greet
 - goodbye
 - affirm
-- affirm+goodbye
+- thanks
+- thanks+goodbye
 - meetup
-- affirm+asktransport
+- affirm+ask_transport
 slots: {}
 templates:
   utter_affirm:
   - text: Cool. Let me book the spot for you.
-  utter_affirm+goodbye:
-  - text: Ok, cool. I will send you a confirmation once it's done.
-  utter_affirm+suggest_transport:
-  - text: Great, I have booked a spot for you. The venue is next to the Alexanderplatz
-      so you can take a U-Bahn U2.
+  utter_affirm_suggest_transport:
+  - text: Great, I have just booked a spot for you and  I will send you a reminder
+      the day before. The venue is next to the Alexanderplatz so you can take a U-Bahn
+      U2.
   utter_confirm:
-  - text: All done.
+  - text: All done - you are all booked for the next meetup. I will send you a reminder
+      the day before.
   utter_goodbye:
   - text: Talk to you later!
   utter_greet:
   - text: Hey, how can I help you?
   utter_meetup:
   - text: Rasa Bots Berlin meetup is definitely worth checking out! Would you like
-      to attend the upcoming one?
+      to join and attend the nearest meetup on 15th of July?
+  utter_thanks_goodbye:
+  - text: You are very welcome. Goodbye!
 topics: []

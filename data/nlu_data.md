@@ -14,6 +14,7 @@
 - Hey robot
 - Hello bot
  
+ 
 ## intent: goodbye
 - Bye
 - Goodbye
@@ -22,48 +23,59 @@
 - See you later
 - Bye bye
 - Bye for now
-- Goodbye
+- Goodbye bot
+ 
  
 ## intent: affirm
 - yes
 - yup
-- awesome
-- great
-- That's great
-- That's awesome
-- Sounds cool
-- cool
-- yay
-- great
-- perfect
-- That's perfect
-- thanks
-- thanks a lot
+- yes, that sounds good
+- sure
+- definitely
+- absolutely
+- please do
 - yes, please
+- yes for sure
+
+
+## intent: thanks
+- thanks
+- thank you
+- Thanks a lot
+- Thanks a bunch
+- Thank you very much
+- Thank you so much
+
  
-## intent: affirm+goodbye
+## intent: thanks+goodbye
 - Awesome. Talk to you later!
-- Yes, thanks. Bye for now
+- Thanks. Bye for now
 - Awesome, bye bye
 - That's great. Goodbye.
 - Perfect. Talk to you later
 - Thanks! Goodbye
-- That's cool. Talk to you later
-- Nice! See you later.
+- Thank you very much. Talk to you later
 - Thanks a lot. Bye for now
-- Great. Goodbye
+- Thanks bot. Goodbye
+ 
  
 ## intent: meetup
-- Looking for a tech meetup in the area?
-- Hey. I are there any good AI meetups in Berlin?
+- I am new to the area. What meetups I could join in Berlin?
+- I have just moved to Berlin. Can you suggest any cool meetups for me?
+- I have moved to the area and would like to join some tech meetups. Any suggestions?
+- Looking for a tech meetup in the area.
+- Are there any good AI meetups in Berlin?
 - Can you suggest any cool meetups in Berlin area?
-- Are there any tech meetups in London worth checking out?
+- Are there any tech meetups in Berlin worth checking out?
+
  
-## intent: affirm+asktransport
+## intent: affirm+ask_transport
 - Yes. How do I get there?
 - Sounds good. Do you know how I could get there from home?
 - Yes, please. How do I get there from work?
 - Sure. Can you suggests how should get there?
 - Yes, thanks. I wonder, how should I get to the venue from work?
+- Yes, definitely. I wonder how should I get to the venue?
+- Definitely. Can you tell me how could I get to the venue of the meetup?
  
  
