@@ -29,5 +29,5 @@ In order to keep the main focus on the usage of the new pipeline and to ensure t
 * [Rasa Core installation](https://core.rasa.com/installation.html) - guidelines on how to install Rasa Core.
 * [Supervised Word Vectors from Scratch in Rasa NLU](https://medium.com/rasa-blog/supervised-word-vectors-from-scratch-in-rasa-nlu-6daf794efcd8) - Rasa blogpost on the new Tensorflow pipeline.
 * [Docs: Preprocessing Pipeline](https://nlu.rasa.com/pipeline.html) - Official Rasa documentation on preprocessing pipelines.
-* [RasaNLU Gitter](https://gitter.im/RasaHQ/rasa_nlu) and [RasaCore Gitter](https://gitter.im/RasaHQ/rasa_core) - Places where Rasa community hangs out.
+* [Rasa NLU Gitter](https://gitter.im/RasaHQ/rasa_nlu) and [Rasa Core Gitter](https://gitter.im/RasaHQ/rasa_core) - Places where Rasa community hangs out.
 
