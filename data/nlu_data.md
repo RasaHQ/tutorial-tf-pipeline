@@ -60,13 +60,17 @@
  
  
 ## intent: meetup
-- I am new to the area. What meetups I could join in Berlin?
-- I have just moved to Berlin. Can you suggest any cool meetups for me?
+- I am new to the area. What meetups I could join in [Berlin](city)? 
+- I have just moved to [Berlin](city). Can you suggest any cool meetups for me?
 - I have moved to the area and would like to join some tech meetups. Any suggestions?
+- I am new to [London](city). Can you suggest any cool meetups I could attend?
+- I have just arrived in [Barcelona](city). What meetups I could attend here?
 - Looking for a tech meetup in the area.
-- Are there any good AI meetups in Berlin?
-- Can you suggest any cool meetups in Berlin area?
-- Are there any tech meetups in Berlin worth checking out?
+- Are there any good AI meetups in [Berlin](city)?
+- Can you suggest any cool meetups in [Berlin](city) area?
+- Are there any tech meetups in [Berlin](city) worth checking out?
+- What are the great meetups to attend in [Lodond](city)?
+- Looking for some tech meetups to go to in [Amsterdam](city).
 
 
 ## intent: ask_transport

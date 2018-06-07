@@ -8,6 +8,8 @@ intents:
   - affirm+ask_transport
   - ask_transport
 
+entities:
+  - city
 
 
 templates:
