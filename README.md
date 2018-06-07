@@ -1,6 +1,6 @@
 # How to handle multiple intents per input using Rasa NLU Tensorflow pipeline
 
-In release 0.12, Rasa introduced a new Tensorflow-based pipeline for NLU models. This repository contains the code for a tutorial on how to use this pipeline to handle multiple intents per input. You can find a detailed walkthrough through the code here. The result of this tutorial is a very simple chatbot which can recommend the meetups to attend in Berlin. The example conversation is:
+In release 0.12, Rasa introduced a new Tensorflow-based pipeline for NLU models. This repository contains the code for a tutorial on how to use this pipeline to handle multiple intents per input. You can find a detailed walkthrough through the code here. The result of this tutorial is a chatbot which can recommend the meetups to attend in Berlin. The example conversation is:
 
 ```text
 U: Hello
@@ -14,6 +14,12 @@ B: You are very welcome. Goodbye!
 ```
 
 In order to keep the main focus on the usage of the new pipeline and to ensure that the tutorial is fully reproducible, we didn't use any custom actions or APIs here. Instead, we would like to encourage you to take this code, build things on top of it and keep us posted on how it goes!
+
+If you want to test the agent on your local machine, you can clone the repository and run the following command in the project directory:
+
+```
+python -m rasa_core.run -d models/current/dialogue -u models/current/nlu_model
+```
 
 
 ## Versions of the software used in this tutorial:
