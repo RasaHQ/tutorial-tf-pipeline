@@ -2,53 +2,6 @@
     "language": "en",
     "pipeline": [
         {
-            "model": "en",
-            "case_sensitive": false,
-            "name": "nlp_spacy",
-            "class": "rasa_nlu.utils.spacy_utils.SpacyNLP"
-        },
-        {
-            "name": "tokenizer_spacy",
-            "class": "rasa_nlu.tokenizers.spacy_tokenizer.SpacyTokenizer"
-        },
-        {
-            "BILOU_flag": true,
-            "features": [
-                [
-                    "low",
-                    "title",
-                    "upper",
-                    "pos",
-                    "pos2"
-                ],
-                [
-                    "bias",
-                    "low",
-                    "word3",
-                    "word2",
-                    "upper",
-                    "title",
-                    "digit",
-                    "pos",
-                    "pos2",
-                    "pattern"
-                ],
-                [
-                    "low",
-                    "title",
-                    "upper",
-                    "pos",
-                    "pos2"
-                ]
-            ],
-            "max_iterations": 50,
-            "L1_c": 1,
-            "L2_c": 0.001,
-            "name": "ner_crf",
-            "classifier_file": "crf_model.pkl",
-            "class": "rasa_nlu.extractors.crf_entity_extractor.CRFEntityExtractor"
-        },
-        {
             "token_pattern": "(?u)\\b\\w\\w+\\b",
             "strip_accents": null,
             "stop_words": null,
@@ -88,6 +41,6 @@
         }
     ],
     "training_data": "training_data.json",
-    "trained_at": "20180607-113316",
+    "trained_at": "20180607-151626",
     "rasa_nlu_version": "0.12.3"
 }

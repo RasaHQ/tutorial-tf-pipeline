@@ -187,26 +187,10 @@
       },
       {
         "intent": "meetup",
-        "entities": [
-          {
-            "start": 51,
-            "end": 57,
-            "value": "Berlin",
-            "entity": "city"
-          }
-        ],
         "text": "I am new to the area. What meetups I could join in Berlin?"
       },
       {
         "intent": "meetup",
-        "entities": [
-          {
-            "start": 21,
-            "end": 27,
-            "value": "Berlin",
-            "entity": "city"
-          }
-        ],
         "text": "I have just moved to Berlin. Can you suggest any cool meetups for me?"
       },
       {
@@ -215,27 +199,11 @@
       },
       {
         "intent": "meetup",
-        "entities": [
-          {
-            "start": 12,
-            "end": 18,
-            "value": "London",
-            "entity": "city"
-          }
-        ],
         "text": "I am new to London. Can you suggest any cool meetups I could attend?"
       },
       {
         "intent": "meetup",
-        "entities": [
-          {
-            "start": 23,
-            "end": 32,
-            "value": "Barcelona",
-            "entity": "city"
-          }
-        ],
-        "text": "I have just arrived in Barcelona. What meetups I could attend here?"
+        "text": "I have just arrived in Berlin. What meetups I could attend here?"
       },
       {
         "intent": "meetup",
@@ -243,63 +211,7 @@
       },
       {
         "intent": "meetup",
-        "entities": [
-          {
-            "start": 33,
-            "end": 39,
-            "value": "Berlin",
-            "entity": "city"
-          }
-        ],
         "text": "Are there any good AI meetups in Berlin?"
-      },
-      {
-        "intent": "meetup",
-        "entities": [
-          {
-            "start": 36,
-            "end": 42,
-            "value": "Berlin",
-            "entity": "city"
-          }
-        ],
-        "text": "Can you suggest any cool meetups in Berlin area?"
-      },
-      {
-        "intent": "meetup",
-        "entities": [
-          {
-            "start": 30,
-            "end": 36,
-            "value": "Berlin",
-            "entity": "city"
-          }
-        ],
-        "text": "Are there any tech meetups in Berlin worth checking out?"
-      },
-      {
-        "intent": "meetup",
-        "entities": [
-          {
-            "start": 40,
-            "end": 46,
-            "value": "Lodond",
-            "entity": "city"
-          }
-        ],
-        "text": "What are the great meetups to attend in Lodond?"
-      },
-      {
-        "intent": "meetup",
-        "entities": [
-          {
-            "start": 42,
-            "end": 51,
-            "value": "Amsterdam",
-            "entity": "city"
-          }
-        ],
-        "text": "Looking for some tech meetups to go to in Amsterdam."
       },
       {
         "intent": "ask_transport",

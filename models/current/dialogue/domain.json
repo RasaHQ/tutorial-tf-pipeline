@@ -17,6 +17,7 @@
     "prev_utter_thanks_goodbye",
     "prev_utter_meetup",
     "prev_utter_affirm_suggest_transport",
-    "prev_utter_suggest_transport"
+    "prev_utter_suggest_transport",
+    "prev_utter_thanks"
   ]
 }

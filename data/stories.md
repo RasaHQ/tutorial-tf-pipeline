@@ -12,7 +12,7 @@
 * meetup
     - utter_meetup
 	
-
+	
 ## thanks+goodbye
 * thanks+goodbye
     - utter_thanks_goodbye
@@ -55,6 +55,20 @@
 * thanks+goodbye
 	- utter_thanks_goodbye		
 	
+	
+## find_meetup_03
+* greet
+	- utter_greet
+* greet
+	- utter_meetup
+* affirm
+	- utter_confirm
+* ask_transport
+	- utter_suggest_transport
+* thanks
+	- utter_thanks
+* goodbye
+	- utter_goodbye
 	
 	
 		

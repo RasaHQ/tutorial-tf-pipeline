@@ -8,6 +8,7 @@ action_names:
 - utter_meetup
 - utter_affirm_suggest_transport
 - utter_suggest_transport
+- utter_thanks
 actions:
 - utter_greet
 - utter_goodbye
@@ -17,6 +18,7 @@ actions:
 - utter_meetup
 - utter_affirm_suggest_transport
 - utter_suggest_transport
+- utter_thanks
 config:
   store_entities_as_slots: true
 entities: []
@@ -50,6 +52,8 @@ templates:
   utter_suggest_transport:
   - text: If you are going from the centre, catch U-Bahn to Alexanderplatz. The venue
       is very close to the station.
+  utter_thanks:
+  - text: You are very welcome.
   utter_thanks_goodbye:
   - text: You are very welcome. Goodbye!
 topics: []

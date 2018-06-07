@@ -8,9 +8,6 @@ intents:
   - affirm+ask_transport
   - ask_transport
 
-entities:
-  - city
-
 
 templates:
   utter_greet:
@@ -29,6 +26,8 @@ templates:
     - "Great, I have just booked a spot for you and  I will send you a reminder the day before. The venue is next to the Alexanderplatz so you can take a U-Bahn U2."
   utter_suggest_transport:
     - "If you are going from the centre, catch U-Bahn to Alexanderplatz. The venue is very close to the station."
+  utter_thanks:
+    - "You are very welcome."
 
 
 actions:
@@ -40,4 +39,5 @@ actions:
   - utter_meetup
   - utter_affirm_suggest_transport
   - utter_suggest_transport
+  - utter_thanks
 
