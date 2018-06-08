@@ -8,6 +8,7 @@
     "intent_meetup",
     "intent_affirm+ask_transport",
     "intent_ask_transport",
+    "intent_deny",
     "prev_action_listen",
     "prev_action_restart",
     "prev_utter_greet",
@@ -18,6 +19,7 @@
     "prev_utter_meetup",
     "prev_utter_affirm_suggest_transport",
     "prev_utter_suggest_transport",
-    "prev_utter_thanks"
+    "prev_utter_thanks",
+    "prev_utter_deny"
   ]
 }

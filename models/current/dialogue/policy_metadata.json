@@ -3,6 +3,12 @@
     "action_listen": {
       "slots": []
     },
+    "utter_thanks_goodbye": {
+      "slots": []
+    },
+    "utter_deny": {
+      "slots": []
+    },
     "utter_greet": {
       "slots": []
     },
@@ -10,9 +16,6 @@
       "slots": []
     },
     "utter_goodbye": {
-      "slots": []
-    },
-    "utter_thanks_goodbye": {
       "slots": []
     }
   },

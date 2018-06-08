@@ -126,6 +126,34 @@
         "text": "yes for sure"
       },
       {
+        "intent": "deny",
+        "text": "no"
+      },
+      {
+        "intent": "deny",
+        "text": "nope"
+      },
+      {
+        "intent": "deny",
+        "text": "No, I don't think so"
+      },
+      {
+        "intent": "deny",
+        "text": "Maybe not"
+      },
+      {
+        "intent": "deny",
+        "text": "Not today"
+      },
+      {
+        "intent": "deny",
+        "text": "No, I'm good"
+      },
+      {
+        "intent": "deny",
+        "text": "No thanks"
+      },
+      {
         "intent": "thanks",
         "text": "thanks"
       },

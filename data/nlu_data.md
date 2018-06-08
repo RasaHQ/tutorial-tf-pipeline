@@ -38,6 +38,17 @@
 - yes for sure
 
 
+
+## intent: deny
+- no
+- nope
+- No, I don't think so
+- Maybe not
+- Not today
+- No, I'm good
+- No thanks
+
+
 ## intent: thanks
 - thanks
 - thank you
