@@ -93,6 +93,10 @@
 - Yes. How do I get there?
 - Sounds good. Do you know how I could get there from home?
 - Yes, please. How do I get there from work?
+- Yes, sure! Can you also tell me what is the best way to get to the venue?
+- Sure, sounds good. Can you tell the best way to get to the venue?
+- Yes! Can you also recommend me the best way to get to the venue?
+- Yes, sure. Also, can you tell me what is the fastest way to get to the venue?
 - Sure. Can you suggests how should get there?
 - Yes, thanks. I wonder, how should I get to the venue from work?
 - Yes, definitely. I wonder how should I get to the venue?

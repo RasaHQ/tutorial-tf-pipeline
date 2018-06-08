@@ -275,6 +275,22 @@
       },
       {
         "intent": "affirm+ask_transport",
+        "text": "Yes, sure! Can you also tell me what is the best way to get to the venue?"
+      },
+      {
+        "intent": "affirm+ask_transport",
+        "text": "Sure, sounds good. Can you tell the best way to get to the venue?"
+      },
+      {
+        "intent": "affirm+ask_transport",
+        "text": "Yes! Can you also recommend me the best way to get to the venue?"
+      },
+      {
+        "intent": "affirm+ask_transport",
+        "text": "Yes, sure. Also, can you tell me what is the fastest way to get to the venue?"
+      },
+      {
+        "intent": "affirm+ask_transport",
         "text": "Sure. Can you suggests how should get there?"
       },
       {

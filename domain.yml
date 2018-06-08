@@ -27,11 +27,11 @@ templates:
     - "You are very welcome. Goodbye!"
     - "Glad I could help! Have a great day."
   utter_meetup:
-    - "Rasa Bots Berlin meetup is definitely worth checking out! They are having an event today. Would you like to join?"
+    - "Rasa Bots Berlin meetup is definitely worth checking out! They are having an event today at Behrenstraße 42. Would you like to join?"
   utter_affirm_suggest_transport:
-    - "Great, I have just booked a spot for you. The venue is next to the Alexanderplatz so you can take a U-Bahn U2."
+    - "Great, I have just booked a spot for you. The venue is close to the Berlin Friedrichstraße station, you can get there by catching U-Bahn U6."
   utter_suggest_transport:
-    - "If you are going from the city centre, catch a U-Bahn U2 to Alexanderplatz. The venue is very close to the station."
+    - "Sure, the venue is nearby the Berlin Friedrichstraße station, so the best option is to catch U-Bahn U6."
   utter_thanks:
     - "You are very welcome."
   utter_deny:

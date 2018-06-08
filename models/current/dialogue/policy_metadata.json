@@ -6,7 +6,7 @@
     "utter_thanks_goodbye": {
       "slots": []
     },
-    "utter_deny": {
+    "utter_goodbye": {
       "slots": []
     },
     "utter_greet": {
@@ -15,7 +15,7 @@
     "utter_meetup": {
       "slots": []
     },
-    "utter_goodbye": {
+    "utter_deny": {
       "slots": []
     }
   },

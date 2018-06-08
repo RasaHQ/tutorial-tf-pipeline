@@ -40,8 +40,8 @@ templates:
   - text: Cool. Let me book the spot for you.
   - text: Glad to hear. I'll mane an RSVP for you.
   utter_affirm_suggest_transport:
-  - text: Great, I have just booked a spot for you. The venue is next to the Alexanderplatz
-      so you can take a U-Bahn U2.
+  - text: Great, I have just booked a spot for you. The venue is close to the Berlin
+      Friedrichstraße station, you can get there by catching U-Bahn U6.
   utter_confirm:
   - text: Done - you are all set for Bots Berlin meetup.
   - text: Great, all done.
@@ -55,10 +55,10 @@ templates:
   - text: Hey, how can I help you?
   utter_meetup:
   - text: Rasa Bots Berlin meetup is definitely worth checking out! They are having
-      an event today. Would you like to join?
+      an event today at Behrenstraße 42. Would you like to join?
   utter_suggest_transport:
-  - text: If you are going from the city centre, catch a U-Bahn U2 to Alexanderplatz.
-      The venue is very close to the station.
+  - text: Sure, the venue is nearby the Berlin Friedrichstraße station, so the best
+      option is to catch U-Bahn U6.
   utter_thanks:
   - text: You are very welcome.
   utter_thanks_goodbye:
