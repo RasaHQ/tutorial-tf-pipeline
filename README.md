@@ -38,6 +38,6 @@ python -m rasa_core.run -d models/current/dialogue -u models/current/nlu_model
 * [Rasa NLU installation](https://nlu.rasa.com/installation.html) - guidelines on how to install Rasa NLU.
 * [Rasa Core installation](https://core.rasa.com/installation.html) - guidelines on how to install Rasa Core.
 * [Supervised Word Vectors from Scratch in Rasa NLU](https://medium.com/rasa-blog/supervised-word-vectors-from-scratch-in-rasa-nlu-6daf794efcd8) - Rasa blogpost on the new Tensorflow pipeline.
-* [Docs: Preprocessing Pipeline](https://nlu.rasa.com/pipeline.html) - Official Rasa documentation on preprocessing pipelines.
+* [Docs: Processing Pipeline](https://nlu.rasa.com/pipeline.html) - Official Rasa documentation on processing pipelines.
 * [Rasa NLU Gitter](https://gitter.im/RasaHQ/rasa_nlu) and [Rasa Core Gitter](https://gitter.im/RasaHQ/rasa_core) - Places where Rasa community hangs out.
 
