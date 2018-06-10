@@ -23,7 +23,7 @@ In order to keep the main focus on the usage of the new pipeline and to ensure t
 * Rasa Core 0.9.3  
 
 ## How to use this repository:
-1. Clone the repository and install Rasa NLU and Rasa Core:
+1. Clone or download the repository and install Rasa NLU and Rasa Core:
 ```
 pip install -r requirements.txt
 ```
