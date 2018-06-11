@@ -3,19 +3,19 @@
     "action_listen": {
       "slots": []
     },
-    "utter_thanks_goodbye": {
+    "utter_greet": {
       "slots": []
     },
     "utter_goodbye": {
       "slots": []
     },
-    "utter_greet": {
-      "slots": []
-    },
-    "utter_meetup": {
+    "utter_thanks_goodbye": {
       "slots": []
     },
     "utter_deny": {
+      "slots": []
+    },
+    "utter_meetup": {
       "slots": []
     }
   },

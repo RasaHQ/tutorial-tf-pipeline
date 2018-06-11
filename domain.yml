@@ -25,7 +25,7 @@ templates:
     - "Great, all done."
   utter_thanks_goodbye:
     - "You are very welcome. Goodbye!"
-    - "Glad I could help! Have a great day."
+    - "Glad I could help! Have a great day!"
   utter_meetup:
     - "Rasa Bots Berlin meetup is definitely worth checking out! They are having an event today at Behrenstraße 42. Would you like to join?"
   utter_affirm_suggest_transport:
