@@ -27,7 +27,7 @@ In order to keep the main focus on the usage of the new pipeline and to ensure t
 ```
 pip install -r requirements.txt
 ```
-2. Follow a step-by-step totorial here.
+2. Follow a step-by-step tutorial here.
 3. At any time you can load the chatbot and test it on your local machine:
 ```
 python -m rasa_core.run -d models/current/dialogue -u models/current/nlu_model
@@ -37,7 +37,7 @@ python -m rasa_core.run -d models/current/dialogue -u models/current/nlu_model
 ## Useful resources:
 * [Rasa NLU installation](https://nlu.rasa.com/installation.html) - guidelines on how to install Rasa NLU.
 * [Rasa Core installation](https://core.rasa.com/installation.html) - guidelines on how to install Rasa Core.
-* [Supervised Word Vectors from Scratch in Rasa NLU](https://medium.com/rasa-blog/supervised-word-vectors-from-scratch-in-rasa-nlu-6daf794efcd8) - Rasa blogpost on the new Tensorflow pipeline.
+* [Supervised Word Vectors from Scratch in Rasa NLU](https://medium.com/rasa-blog/supervised-word-vectors-from-scratch-in-rasa-nlu-6daf794efcd8) - Rasa blog post on the new TensorFlow pipeline.
 * [Docs: Processing Pipeline](https://nlu.rasa.com/pipeline.html) - Official Rasa documentation on processing pipelines.
 * [Rasa NLU Gitter](https://gitter.im/RasaHQ/rasa_nlu) and [Rasa Core Gitter](https://gitter.im/RasaHQ/rasa_core) - Places where Rasa community hangs out.
 
