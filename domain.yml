@@ -19,7 +19,7 @@ templates:
     - "Bye!"
   utter_affirm:
     - "Cool. Let me book the spot for you."
-    - "Glad to hear. I'll mane an RSVP for you."
+    - "Glad to hear. I'll make an RSVP for you."
   utter_confirm:
     - "Done - you are all set for Bots Berlin meetup."
     - "Great, all done."
