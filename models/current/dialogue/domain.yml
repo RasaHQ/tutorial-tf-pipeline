@@ -46,7 +46,7 @@ templates:
   - text: Done - you are all set for Bots Berlin meetup.
   - text: Great, all done.
   utter_deny:
-  - text: That's a shame. Let me know if you change you mind.
+  - text: That's a shame. Let me know if you change your mind.
   utter_goodbye:
   - text: Talk to you later!
   - text: Goodbye :(

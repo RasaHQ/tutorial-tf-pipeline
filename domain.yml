@@ -35,7 +35,7 @@ templates:
   utter_thanks:
     - "You are very welcome."
   utter_deny:
-    - "That's a shame. Let me know if you change you mind."
+    - "That's a shame. Let me know if you change your mind."
 
 
 actions:
