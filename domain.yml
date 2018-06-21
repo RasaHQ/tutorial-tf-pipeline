@@ -17,23 +17,19 @@ templates:
     - "Talk to you later!"
     - "Goodbye :("
     - "Bye!"
-  utter_affirm:
-    - "Cool. Let me book the spot for you."
-    - "Glad to hear. I'll make an RSVP for you."
+    - "Have a great day!"
   utter_confirm:
-    - "Done - you are all set for Bots Berlin meetup."
-    - "Great, all done."
-  utter_thanks_goodbye:
-    - "You are very welcome. Goodbye!"
-    - "Glad I could help! Have a great day!"
+    - "Done - I have just booked you a spot at the Bots Berlin meetup."
+    - "Great, just made an RSVP for you."
   utter_meetup:
     - "Rasa Bots Berlin meetup is definitely worth checking out! They are having an event today at Behrenstraße 42. Would you like to join?"
-  utter_affirm_suggest_transport:
+  utter_confirm_suggest_transport:
     - "Great, I have just booked a spot for you. The venue is close to the Berlin Friedrichstraße station, you can get there by catching U-Bahn U6."
   utter_suggest_transport:
-    - "Sure, the venue is nearby the Berlin Friedrichstraße station, so the best option is to catch U-Bahn U6."
+    - "The venue is close to the Berlin Friedrichstraße station, so the best option is to catch a U-Bahn U6."
   utter_thanks:
     - "You are very welcome."
+    - "Glad I could help!"
   utter_deny:
     - "That's a shame. Let me know if you change your mind."
 
@@ -41,11 +37,9 @@ templates:
 actions:
   - utter_greet
   - utter_goodbye
-  - utter_affirm
   - utter_confirm
-  - utter_thanks_goodbye
   - utter_meetup
-  - utter_affirm_suggest_transport
+  - utter_confirm_suggest_transport
   - utter_suggest_transport
   - utter_thanks
   - utter_deny

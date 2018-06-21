@@ -8,9 +8,11 @@ Bot: Hey, how can I help you?
 User: I am new to Berlin and I would like to join some meetups. Any suggestions?
 Bot: Rasa Bots Berlin meetup is definitely worth checking out! They are having an event today at Behrenstraße 42. Would you like to join?
 User: Sure! Can you also tell me how can I get to the venue?
-Bot: Great, I have just booked a spot for you. The venue is close to the Berlin Friedrichstraße station, you can get there by catching U-Bahn U6.
+Bot: Great, just made an RSVP for you. 
+Bot: The venue is close to the Berlin Friedrichstraße station, so the best option is to catch a U-Bahn U6.
 User: Thanks a lot. Talk to you later.
-Bot: You are very welcome. Goodbye!
+Bot: Glad I could help!
+Bot: Talk to you later! 
 ```
 
 In order to keep the main focus on the usage of the new pipeline and to ensure that the tutorial is fully reproducible, we didn't use any custom actions or APIs here. Instead, we would like to encourage you to take this code, build things on top of it and keep us posted on how it goes!
