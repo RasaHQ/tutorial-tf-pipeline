@@ -1,62 +1,36 @@
-## Generated Story -3396197369765484740
-* goodbye
-    - utter_goodbye
-
-## Generated Story 5100822602017791801
+## Generated Story -6736536698235641668
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* goodbye
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story -4139467135159582498
+## Generated Story 1284713569042625063
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 
-## Generated Story 7178270867881240383
+## Generated Story -1596668869621141882
 * greet
     - utter_greet
 
-## Generated Story -8672781915002479528
-* meetup
-    - utter_meetup
-
-## Generated Story 7395043961257298921
-* greet
-    - utter_greet
+## Generated Story -6250593495155995752
 * meetup
-    - utter_meetup
-* affirm+ask_transport
-    - utter_confirm_suggest_transport
-* thanks+goodbye
-    - utter_thanks
-    - utter_goodbye
-
-## Generated Story -8030403227232800500
-* thanks+goodbye
-    - utter_goodbye
-
-## Generated Story -1884514065319046762
-* greet
-    - utter_greet
-* greet
     - utter_meetup
-* deny
-    - utter_deny
 
-## Generated Story -7819123388362401150
+## Generated Story 5840639069168546019
 * greet
     - utter_greet
 * meetup
@@ -65,11 +39,14 @@
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* goodbye
+    - utter_goodbye
+
+## Generated Story 6560992631505050874
+* goodbye
     - utter_goodbye
 
-## Generated Story -4535501318894487923
+## Generated Story 4018018694361165469
 * greet
     - utter_greet
 * greet
@@ -83,7 +60,7 @@
 * goodbye
     - utter_goodbye
 
-## Generated Story 8891198334824909195
+## Generated Story 7333012771303530517
 * greet
     - utter_greet
 * meetup
@@ -93,37 +70,47 @@
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
+    - utter_goodbye
+
+## Generated Story -9069086660762918061
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story -7592241890407079795
+## Generated Story -8605566171841445778
 * greet
     - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
+
+## Generated Story -7235039166817703785
+* greet
+    - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
+
+## Generated Story -8904265886353781672
 * goodbye
     - utter_goodbye
-
-## Generated Story 6194433769663294741
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
-    - utter_thanks
-    - utter_goodbye
-* goodbye
     - utter_goodbye
 
-## Generated Story 2629892629113258473
+## Generated Story 1506043731586119713
+* thanks+goodbye
+    - utter_goodbye
 * greet
     - utter_greet
 * meetup
@@ -132,11 +119,11 @@
     - utter_confirm
     - utter_suggest_transport
 * thanks+goodbye
-    - utter_goodbye
-* goodbye
     - utter_goodbye
 
-## Generated Story 4423772899430601624
+## Generated Story -6233465197071942863
+* greet
+    - utter_greet
 * greet
     - utter_greet
 * meetup
@@ -144,47 +131,30 @@
 * affirm+ask_transport
     - utter_confirm
     - utter_suggest_transport
-* thanks+goodbye
-    - utter_thanks
-    - utter_goodbye
-* goodbye
-    - utter_goodbye
-
-## Generated Story -4714438190147827833
 * thanks+goodbye
-    - utter_goodbye
-* goodbye
     - utter_goodbye
 
-## Generated Story 3577681322881465962
+## Generated Story 6922189076717762448
 * greet
     - utter_greet
-* goodbye
-    - utter_goodbye
-
-## Generated Story 1284750209602710295
 * meetup
     - utter_meetup
-* goodbye
-    - utter_goodbye
-
-## Generated Story 2760025711410229606
-* goodbye
-    - utter_goodbye
-* goodbye
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
+* thanks+goodbye
+    - utter_thanks
     - utter_goodbye
-
-## Generated Story -8495670145891058430
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* deny
-    - utter_deny
-* goodbye
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story -3760899117079235502
+## Generated Story -2742086345214029532
 * greet
     - utter_greet
 * greet
@@ -195,64 +165,32 @@
     - utter_suggest_transport
 * thanks
     - utter_thanks
-* goodbye
-    - utter_goodbye
 * goodbye
     - utter_goodbye
-
-## Generated Story 5192946446752672897
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* goodbye
-    - utter_goodbye
-* goodbye
-    - utter_goodbye
-
-## Generated Story -3456593720493928432
 * thanks+goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* meetup
-    - utter_meetup
-* affirm
-    - utter_confirm
-* ask_transport
-    - utter_suggest_transport
-* goodbye
     - utter_goodbye
 
-## Generated Story -224609312032684439
-* greet
-    - utter_greet
-* greet
-    - utter_greet
+## Generated Story -224165780509759357
 * meetup
     - utter_meetup
-* affirm
-    - utter_confirm
-* ask_transport
-    - utter_suggest_transport
-* goodbye
-    - utter_goodbye
-
-## Generated Story -5783636041010012568
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* goodbye
+* thanks+goodbye
     - utter_goodbye
+
+## Generated Story 336614153988329354
 * greet
     - utter_greet
 * meetup
@@ -263,26 +201,17 @@
     - utter_suggest_transport
 * goodbye
     - utter_goodbye
-
-## Generated Story -8183388885053857416
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* goodbye
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story -8734312398461497521
+## Generated Story -63624739546271261
 * greet
     - utter_greet
 * meetup
@@ -296,20 +225,20 @@
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* goodbye
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story 2197296915723450822
+## Generated Story 557011876855300974
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_confirm
+    - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
@@ -317,28 +246,30 @@
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* goodbye
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story 4951939657360223386
-* meetup
+## Generated Story -8877781440616722055
+* greet
+    - utter_greet
+* greet
     - utter_meetup
+* deny
+    - utter_deny
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* goodbye
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story 7445779873100434629
+## Generated Story -8240837753815176539
 * greet
     - utter_greet
 * meetup
@@ -354,14 +285,13 @@
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* goodbye
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story 2151212693044174395
+## Generated Story -7384502521049971645
 * greet
     - utter_greet
 * greet
@@ -382,12 +312,13 @@
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* goodbye
+* thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 
-## Generated Story 3800089118323729762
-* goodbye
-    - utter_goodbye
+## Generated Story 7512462824202580811
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
 * meetup
@@ -396,16 +327,18 @@
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* goodbye
+* thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 
-## Generated Story 4999820903831076633
+## Generated Story 5066615882792804007
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
@@ -418,10 +351,11 @@
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* goodbye
+* thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 
-## Generated Story -7095241161902279847
+## Generated Story 5796358678052620204
 * greet
     - utter_greet
 * meetup
@@ -436,39 +370,45 @@
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 
-## Generated Story 3747672079271060107
-* meetup
-    - utter_meetup
+## Generated Story 435733286058931594
+* greet
+    - utter_greet
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 
-## Generated Story -573291539876214548
-* greet
-    - utter_greet
+## Generated Story 6948067926739216436
+* goodbye
+    - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 
-## Generated Story 223373428205021901
+## Generated Story -4894145692383252949
 * greet
     - utter_greet
 * meetup
@@ -483,55 +423,49 @@
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 
-## Generated Story -4186690927627571797
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
-* greet
-    - utter_greet
-* meetup
-    - utter_meetup
-* affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+## Generated Story -475286186830033258
 * thanks+goodbye
-    - utter_goodbye
-
-## Generated Story 6996470274220655918
-* goodbye
     - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 
-## Generated Story 7887945193375005338
+## Generated Story -253804368261416917
 * greet
     - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
 * greet
+    - utter_greet
+* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
+* thanks+goodbye
     - utter_thanks
-* goodbye
     - utter_goodbye
+
+## Generated Story -901586905774004883
 * greet
     - utter_greet
 * meetup
@@ -541,8 +475,6 @@
     - utter_suggest_transport
 * thanks+goodbye
     - utter_goodbye
-
-## Generated Story -7010958598981961537
 * greet
     - utter_greet
 * meetup
@@ -554,83 +486,52 @@
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-* greet
-    - utter_greet
-* meetup
-    - utter_meetup
-* affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
-* thanks+goodbye
-    - utter_goodbye
 
-## Generated Story 3944058324857782311
+## Generated Story 9079576435178371465
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 
-## Generated Story 8427966399252505549
+## Generated Story 6879059815738730006
 * greet
     - utter_greet
-* meetup
-    - utter_meetup
-* affirm+ask_transport
-    - utter_confirm_suggest_transport
-* thanks+goodbye
-    - utter_thanks
-    - utter_goodbye
 * greet
     - utter_greet
-* meetup
-    - utter_meetup
-* affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
-* thanks+goodbye
-    - utter_goodbye
 
-## Generated Story 318056774343843592
-* thanks+goodbye
-    - utter_goodbye
+## Generated Story -8624638375353700411
 * greet
     - utter_greet
-* meetup
+* greet
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
-* thanks+goodbye
-    - utter_goodbye
-
-## Generated Story 6993964079875594317
+* deny
+    - utter_deny
 * greet
     - utter_greet
+
+## Generated Story 317269610642025984
 * meetup
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
-* thanks+goodbye
-    - utter_goodbye
 * greet
     - utter_greet
 
-## Generated Story -6866884871072458690
+## Generated Story -5556838968047179899
 * greet
     - utter_greet
 * meetup
@@ -641,54 +542,36 @@
     - utter_suggest_transport
 * goodbye
     - utter_goodbye
-* greet
-    - utter_greet
-
-## Generated Story -2802078037274234291
-* meetup
-    - utter_meetup
-* greet
-    - utter_greet
-
-## Generated Story -7222703825289815183
-* greet
-    - utter_greet
 * greet
     - utter_greet
 
-## Generated Story -3396259057334992619
+## Generated Story 6260890381914599639
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
-* goodbye
+* thanks+goodbye
     - utter_goodbye
 * greet
     - utter_greet
 
-## Generated Story -2249595192192225674
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
+## Generated Story 568138533399098538
+* thanks+goodbye
+    - utter_goodbye
 * greet
     - utter_greet
 
-## Generated Story -5930741434571544472
+## Generated Story 2786605332761622989
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
@@ -696,14 +579,13 @@
 * greet
     - utter_greet
 
-## Generated Story -854829457037813103
+## Generated Story -5506184765542033111
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
@@ -711,54 +593,63 @@
 * greet
     - utter_greet
 
-## Generated Story -5303991771648994710
-* thanks+goodbye
+## Generated Story 318623588297842847
+* goodbye
     - utter_goodbye
 * greet
     - utter_greet
 
-## Generated Story -5653511262118393800
+## Generated Story 1184650910479182081
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 * greet
     - utter_greet
 
-## Generated Story 2422857954959543982
+## Generated Story -3269765625492879622
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* thanks
+    - utter_thanks
 * goodbye
     - utter_goodbye
 * greet
     - utter_greet
 
-## Generated Story -7668213009437997789
+## Generated Story 6670001697364068558
 * greet
     - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
 * meetup
     - utter_meetup
 
-## Generated Story 859127761046075797
-* meetup
-    - utter_meetup
+## Generated Story 8678772026936515419
+* greet
+    - utter_greet
 * meetup
     - utter_meetup
-
-## Generated Story -7166800166246565524
-* goodbye
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 * meetup
     - utter_meetup
 
-## Generated Story -4000632629721770814
+## Generated Story 7825843879771773186
 * greet
     - utter_greet
 * meetup
@@ -772,26 +663,23 @@
 * meetup
     - utter_meetup
 
-## Generated Story 8070273474071020287
-* greet
-    - utter_greet
+## Generated Story -7410061351864018249
 * meetup
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
-* thanks+goodbye
-    - utter_goodbye
 * meetup
     - utter_meetup
 
-## Generated Story 2839472627259902101
-* thanks+goodbye
-    - utter_goodbye
+## Generated Story -5983359021020674611
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
 * meetup
     - utter_meetup
 
-## Generated Story 3132538387294383363
+## Generated Story 7365797907551291407
 * greet
     - utter_greet
 * meetup
@@ -805,20 +693,26 @@
 * meetup
     - utter_meetup
 
-## Generated Story -4338033091628387126
+## Generated Story 2958311315136709969
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
+    - utter_goodbye
+* meetup
+    - utter_meetup
+
+## Generated Story 3232065255744833439
+* thanks+goodbye
     - utter_goodbye
 * meetup
     - utter_meetup
 
-## Generated Story 3565496399031262830
+## Generated Story 7235102365779641174
 * greet
     - utter_greet
 * greet
@@ -834,128 +728,102 @@
 * meetup
     - utter_meetup
 
-## Generated Story -7560887412012664477
-* greet
-    - utter_greet
+## Generated Story -5349361997885992694
+* goodbye
+    - utter_goodbye
 * meetup
     - utter_meetup
 
-## Generated Story -5273233173103922345
+## Generated Story -8667388839691941968
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
-    - utter_thanks
     - utter_goodbye
 * meetup
     - utter_meetup
 
-## Generated Story -5113431381762678029
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
+## Generated Story 1233514023906524075
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_confirm
+    - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-
-## Generated Story -6728209990674960538
-* meetup
-    - utter_meetup
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* goodbye
     - utter_goodbye
 
-## Generated Story 8234978994227719067
+## Generated Story -2893271412674692658
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* goodbye
     - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm_suggest_transport
-* thanks+goodbye
-    - utter_thanks
-    - utter_goodbye
-
-## Generated Story -8535306609928608567
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
 * goodbye
     - utter_goodbye
+
+## Generated Story 3717350570236343884
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_confirm
+    - utter_suggest_transport
 * thanks+goodbye
-    - utter_thanks
-    - utter_goodbye
-
-## Generated Story 9117070987282378355
-* goodbye
     - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* goodbye
     - utter_goodbye
 
-## Generated Story -3916446929098942419
-* thanks+goodbye
-    - utter_goodbye
+## Generated Story 6937309650085209019
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm_suggest_transport
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-
-## Generated Story -6580734391652736276
 * greet
     - utter_greet
 * meetup
@@ -966,56 +834,52 @@
     - utter_suggest_transport
 * goodbye
     - utter_goodbye
+
+## Generated Story -1270788469644773740
 * greet
     - utter_greet
-* meetup
-    - utter_meetup
-* affirm+ask_transport
-    - utter_confirm_suggest_transport
-* thanks+goodbye
-    - utter_thanks
-    - utter_goodbye
-
-## Generated Story 6516564496100971835
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
-* thanks+goodbye
+* goodbye
     - utter_goodbye
+
+## Generated Story 7208318357673022076
 * greet
     - utter_greet
-* meetup
+* greet
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm_suggest_transport
-* thanks+goodbye
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* thanks
     - utter_thanks
+* goodbye
     - utter_goodbye
-
-## Generated Story -4781401195241813825
-* greet
-    - utter_greet
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* goodbye
     - utter_goodbye
 
-## Generated Story 6794679183069217419
+## Generated Story 693496165426059292
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
@@ -1023,13 +887,16 @@
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* goodbye
     - utter_goodbye
 
-## Generated Story -2343704279798083988
+## Generated Story 7420325128673382380
+* goodbye
+    - utter_goodbye
 * greet
     - utter_greet
 * meetup
@@ -1038,20 +905,30 @@
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* goodbye
     - utter_goodbye
+
+## Generated Story 4674807290665889509
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* goodbye
     - utter_goodbye
 
-## Generated Story 4304725353910083550
+## Generated Story -4069151382238293860
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
 * meetup
@@ -1062,23 +939,22 @@
     - utter_suggest_transport
 * goodbye
     - utter_goodbye
+
+## Generated Story -6551151157760520843
 * thanks+goodbye
     - utter_goodbye
-
-## Generated Story -9030497768175828985
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
-* thanks+goodbye
-    - utter_goodbye
-* thanks+goodbye
+* goodbye
     - utter_goodbye
 
-## Generated Story -4808319918933055931
+## Generated Story 5196517286900559845
 * greet
     - utter_greet
 * meetup
@@ -1089,32 +965,60 @@
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-* thanks+goodbye
+* goodbye
     - utter_goodbye
 
-## Generated Story 1934579880084694793
+## Generated Story 8563834059349293007
+* greet
+    - utter_greet
 * meetup
     - utter_meetup
-* thanks+goodbye
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* goodbye
+    - utter_goodbye
+* goodbye
     - utter_goodbye
 
-## Generated Story 2845498649517013727
+## Generated Story 8539277914018601923
 * greet
     - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
+    - utter_thanks
+    - utter_goodbye
+* goodbye
     - utter_goodbye
 
-## Generated Story -6013748784966647717
+## Generated Story -5947147528751467533
 * greet
     - utter_greet
 * greet
     - utter_meetup
 * deny
     - utter_deny
+* goodbye
+    - utter_goodbye
+
+## Generated Story 2949740999062376645
+* greet
+    - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
 * thanks+goodbye
+    - utter_goodbye
+* goodbye
     - utter_goodbye
 
-## Generated Story -3055750354226981117
+## Generated Story -8867371861636751594
 * greet
     - utter_greet
 * greet
@@ -1126,17 +1030,11 @@
 * thanks
     - utter_thanks
 * goodbye
-    - utter_goodbye
-* thanks+goodbye
-    - utter_goodbye
-
-## Generated Story -9125967373111947157
-* thanks+goodbye
     - utter_goodbye
-* thanks+goodbye
+* goodbye
     - utter_goodbye
 
-## Generated Story 3798083211778197256
+## Generated Story 5082175953277961074
 * greet
     - utter_greet
 * meetup
@@ -1148,43 +1046,44 @@
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-* thanks+goodbye
+* goodbye
+    - utter_goodbye
+
+## Generated Story 1923324205816204650
+* greet
+    - utter_greet
+* goodbye
+    - utter_goodbye
+
+## Generated Story 488591220414123347
+* meetup
+    - utter_meetup
+* goodbye
     - utter_goodbye
 
-## Generated Story -1932888032198273800
+## Generated Story 3967852791080006630
 * goodbye
     - utter_goodbye
+* goodbye
+    - utter_goodbye
+
+## Generated Story 3256842438615460155
 * thanks+goodbye
+    - utter_goodbye
+* goodbye
     - utter_goodbye
 
-## Generated Story -5977107906464816124
+## Generated Story -5749600288827868030
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_confirm
+    - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
-    - utter_goodbye
-* thanks+goodbye
     - utter_goodbye
-
-## Generated Story 1772750558851069606
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
-
-## Generated Story -6008242585434668145
 * greet
     - utter_greet
 * greet
@@ -1197,149 +1096,90 @@
     - utter_thanks
 * goodbye
     - utter_goodbye
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
 
-## Generated Story -4623797479081878234
-* greet
-    - utter_greet
-* meetup
-    - utter_meetup
-* affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
-* thanks+goodbye
-    - utter_goodbye
+## Generated Story -1381037436275956399
 * greet
     - utter_greet
 * greet
     - utter_meetup
 * deny
     - utter_deny
-
-## Generated Story 1030072524314223629
 * greet
     - utter_greet
-* meetup
+* greet
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
-* thanks+goodbye
+* thanks
     - utter_thanks
-    - utter_goodbye
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
-
-## Generated Story -5312794543319979764
 * goodbye
     - utter_goodbye
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
 
-## Generated Story 8062006501337272055
-* meetup
-    - utter_meetup
+## Generated Story -5713074849294452182
 * greet
     - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
-
-## Generated Story 3528552325529598924
 * greet
     - utter_greet
-* meetup
+* greet
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
+* thanks
+    - utter_thanks
 * goodbye
     - utter_goodbye
+
+## Generated Story -5617224942915960028
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* deny
-    - utter_deny
-
-## Generated Story -63855854457350213
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 * greet
     - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
-
-## Generated Story 5803117837221901780
 * greet
-    - utter_greet
-* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks+goodbye
+* thanks
     - utter_thanks
+* goodbye
     - utter_goodbye
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
-
-## Generated Story 1244752108307123033
-* greet
-    - utter_greet
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
 
-## Generated Story 7191903889934690568
+## Generated Story 6511965195456163506
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_confirm
+    - utter_suggest_transport
 * thanks+goodbye
-    - utter_thanks
     - utter_goodbye
 * greet
     - utter_greet
 * greet
     - utter_meetup
-* deny
-    - utter_deny
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* thanks
+    - utter_thanks
+* goodbye
+    - utter_goodbye
 
-## Generated Story 8586242717860617360
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
+## Generated Story 5793955077143351475
 * greet
     - utter_greet
 * meetup
@@ -1348,28 +1188,22 @@
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* goodbye
     - utter_goodbye
-
-## Generated Story 5405673725295128241
 * greet
     - utter_greet
 * greet
-    - utter_greet
-* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks+goodbye
+* thanks
     - utter_thanks
+* goodbye
     - utter_goodbye
 
-## Generated Story -4047644954011113300
-* meetup
-    - utter_meetup
+## Generated Story 7636831341057310022
 * greet
     - utter_greet
 * meetup
@@ -1380,24 +1214,21 @@
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
-    - utter_goodbye
-
-## Generated Story -4686755494908536877
-* goodbye
     - utter_goodbye
 * greet
     - utter_greet
-* meetup
+* greet
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks+goodbye
+* thanks
     - utter_thanks
+* goodbye
     - utter_goodbye
 
-## Generated Story 6412580979766765247
+## Generated Story -750561455069820646
 * greet
     - utter_greet
 * greet
@@ -1412,62 +1243,72 @@
     - utter_goodbye
 * greet
     - utter_greet
-* meetup
+* greet
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks+goodbye
+* thanks
     - utter_thanks
+* goodbye
     - utter_goodbye
 
-## Generated Story 4532505246859668679
+## Generated Story -4929378454954720106
+* thanks+goodbye
+    - utter_goodbye
 * greet
     - utter_greet
-* meetup
+* greet
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
+* thanks
+    - utter_thanks
 * goodbye
     - utter_goodbye
+
+## Generated Story -839337172341982217
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
-* meetup
+* greet
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks+goodbye
+* thanks
     - utter_thanks
+* goodbye
     - utter_goodbye
 
-## Generated Story 391425232929499667
-* thanks+goodbye
+## Generated Story 5631051545394992365
+* goodbye
     - utter_goodbye
 * greet
     - utter_greet
-* meetup
+* greet
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks+goodbye
+* thanks
     - utter_thanks
+* goodbye
     - utter_goodbye
 
-## Generated Story -6168344212829548019
+## Generated Story 7596002986019373706
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
@@ -1476,15 +1317,16 @@
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story 6942281077025943891
+## Generated Story -3718894586537477022
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
 * meetup
@@ -1495,6 +1337,8 @@
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
+
+## Generated Story 3382528252799988405
 * greet
     - utter_greet
 * meetup
@@ -1502,34 +1346,48 @@
 * affirm
     - utter_confirm
 * ask_transport
+    - utter_suggest_transport
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_confirm
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story -3102605076128198738
+## Generated Story 8796371165365693225
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_confirm
+    - utter_suggest_transport
 * thanks+goodbye
-    - utter_thanks
     - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story 5695068858452759682
+## Generated Story -244005840064282014
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
 * greet
     - utter_greet
 * meetup
@@ -1538,7 +1396,10 @@
     - utter_confirm
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
+
+## Generated Story 1692571376978111718
 * greet
     - utter_greet
 * meetup
@@ -1550,8 +1411,6 @@
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-
-## Generated Story 8410219491637066498
 * greet
     - utter_greet
 * meetup
@@ -1562,6 +1421,8 @@
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
+
+## Generated Story 5099175539118952632
 * greet
     - utter_greet
 * greet
@@ -1574,8 +1435,6 @@
     - utter_thanks
 * goodbye
     - utter_goodbye
-
-## Generated Story -4088431154430876089
 * greet
     - utter_greet
 * meetup
@@ -1583,113 +1442,120 @@
 * affirm+ask_transport
     - utter_confirm
     - utter_suggest_transport
+* thanks+goodbye
+    - utter_thanks
+    - utter_goodbye
+
+## Generated Story 7536833049446456014
 * thanks+goodbye
     - utter_goodbye
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
+* thanks+goodbye
     - utter_thanks
-* goodbye
     - utter_goodbye
 
-## Generated Story -7393517038518272466
-* goodbye
-    - utter_goodbye
+## Generated Story -5967322621088832092
 * greet
     - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
+* thanks+goodbye
+    - utter_thanks
+    - utter_goodbye
 * greet
+    - utter_greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
+* thanks+goodbye
     - utter_thanks
-* goodbye
     - utter_goodbye
 
-## Generated Story -4415004564415211843
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
+## Generated Story 4030892415033502807
+* goodbye
+    - utter_goodbye
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
+* thanks+goodbye
     - utter_thanks
-* goodbye
     - utter_goodbye
 
-## Generated Story -3723411363345432328
-* meetup
-    - utter_meetup
+## Generated Story 7364399447922725414
 * greet
     - utter_greet
 * greet
+    - utter_greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
+* thanks+goodbye
     - utter_thanks
-* goodbye
     - utter_goodbye
 
-## Generated Story 8086928555392979929
+## Generated Story 2911588113906058717
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
+* thanks+goodbye
+    - utter_goodbye
+
+## Generated Story -6179317501507410603
 * greet
     - utter_greet
+* thanks+goodbye
+    - utter_goodbye
+
+## Generated Story -1480084996473554183
 * greet
+    - utter_greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
-* goodbye
+* thanks+goodbye
+    - utter_goodbye
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story -3815846318045139082
-* greet
-    - utter_greet
+## Generated Story -3330390363054260936
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
+* thanks+goodbye
     - utter_thanks
-* goodbye
+    - utter_goodbye
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story 7646176943875414898
+## Generated Story -8209859479068192299
 * greet
     - utter_greet
 * meetup
@@ -1698,9 +1564,30 @@
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
+* goodbye
+    - utter_goodbye
 * thanks+goodbye
-    - utter_thanks
+    - utter_goodbye
+
+## Generated Story -869237277527795579
+* goodbye
+    - utter_goodbye
+* thanks+goodbye
+    - utter_goodbye
+
+## Generated Story 3635718630057811563
+* meetup
+    - utter_meetup
+* thanks+goodbye
+    - utter_goodbye
+
+## Generated Story 6404823413227267670
+* thanks+goodbye
+    - utter_goodbye
+* thanks+goodbye
     - utter_goodbye
+
+## Generated Story 8103037391779253436
 * greet
     - utter_greet
 * greet
@@ -1713,50 +1600,71 @@
     - utter_thanks
 * goodbye
     - utter_goodbye
-
-## Generated Story -8973184082090062903
 * thanks+goodbye
     - utter_goodbye
+
+## Generated Story -7460375509233321393
 * greet
     - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
+* thanks+goodbye
+    - utter_goodbye
+
+## Generated Story -9083200204872221080
 * greet
+    - utter_greet
+* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
+* thanks+goodbye
     - utter_thanks
-* goodbye
+    - utter_goodbye
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story -1178229109833363604
+## Generated Story 5784740154591562920
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
+* thanks+goodbye
     - utter_thanks
-* goodbye
     - utter_goodbye
 * greet
     - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
+
+## Generated Story -7671867967841055671
 * greet
+    - utter_greet
+* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
 * goodbye
     - utter_goodbye
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
 
-## Generated Story -553478132179901417
+## Generated Story 7685570852789332080
 * greet
     - utter_greet
 * meetup
@@ -1765,9 +1673,18 @@
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* goodbye
+* thanks+goodbye
+    - utter_thanks
     - utter_goodbye
+* greet
+    - utter_greet
 * greet
+    - utter_meetup
+* deny
+    - utter_deny
+
+## Generated Story -8838498491803592128
+* greet
     - utter_greet
 * greet
     - utter_meetup
@@ -1777,69 +1694,117 @@
     - utter_suggest_transport
 * thanks
     - utter_thanks
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
+
+## Generated Story 5602325127498696349
 * goodbye
     - utter_goodbye
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
 
-## Generated Story -1164938848156787792
+## Generated Story -7459665576276482252
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
-    - utter_thanks
     - utter_goodbye
 * greet
     - utter_greet
-* meetup
+* greet
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+* deny
+    - utter_deny
+
+## Generated Story 6213893791619076573
 * thanks+goodbye
-    - utter_thanks
     - utter_goodbye
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
 
-## Generated Story 7618487638988533339
+## Generated Story 4059682725876299080
 * meetup
+    - utter_meetup
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
+
+## Generated Story 6068800231371387297
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
+* greet
+    - utter_greet
+* greet
     - utter_meetup
+* deny
+    - utter_deny
+
+## Generated Story 5073743526881514067
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
 
-## Generated Story -3950822324408646084
+## Generated Story 5382295655968264238
 * greet
     - utter_greet
-* meetup
+* greet
+    - utter_greet
+* greet
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+* deny
+    - utter_deny
+
+## Generated Story -6539500894171269845
 * thanks+goodbye
-    - utter_thanks
     - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story 1068294801725968577
+## Generated Story 595111676105980910
 * greet
     - utter_greet
 * meetup
@@ -1855,107 +1820,90 @@
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story -4333381730784448339
-* greet
-    - utter_greet
-* meetup
-    - utter_meetup
-* affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
-* thanks+goodbye
-    - utter_goodbye
+## Generated Story -72351312883825319
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
-    - utter_goodbye
-
-## Generated Story -9017021036359245609
-* thanks+goodbye
     - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story -8110692368626838529
+## Generated Story -5291584925527818255
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
+* thanks+goodbye
     - utter_thanks
-* goodbye
     - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story -8079088945377263121
+## Generated Story -3073503799573918758
+* greet
+    - utter_greet
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
+
+## Generated Story 3377051402453659989
 * greet
     - utter_greet
-* meetup
+* greet
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
-* thanks+goodbye
+* thanks
     - utter_thanks
+* goodbye
     - utter_goodbye
-
-## Generated Story 5317134024653878930
-* greet
-    - utter_greet
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story 2359389665323955550
+## Generated Story 2904755131240946190
 * greet
     - utter_greet
 * greet
@@ -1967,13 +1915,12 @@
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story 8182074948218991133
+## Generated Story 190897055159234319
 * goodbye
     - utter_goodbye
 * greet
@@ -1981,53 +1928,31 @@
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story -6771494967286064754
-* thanks+goodbye
-    - utter_goodbye
+## Generated Story 5399823418199283827
 * meetup
     - utter_meetup
-* goodbye
-    - utter_goodbye
-
-## Generated Story -1274955124503965668
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
-    - utter_confirm
-* ask_transport
-    - utter_suggest_transport
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
-    - utter_goodbye
-* greet
-    - utter_greet
-* meetup
-    - utter_meetup
-* affirm
-    - utter_confirm
-* ask_transport
-    - utter_suggest_transport
-* goodbye
     - utter_goodbye
-* goodbye
-    - utter_goodbye
 
-## Generated Story -8366196309691120463
+## Generated Story 2576001935232405959
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
@@ -2037,22 +1962,12 @@
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
-    - utter_goodbye
-* goodbye
-    - utter_goodbye
-
-## Generated Story 9207988393102041491
-* greet
-    - utter_greet
-* greet
-    - utter_greet
-* goodbye
+    - utter_thanks
     - utter_goodbye
 
-## Generated Story 8129300767908218840
+## Generated Story 4133661752251520325
 * greet
     - utter_greet
 * meetup
@@ -2061,41 +1976,30 @@
     - utter_confirm
     - utter_suggest_transport
 * thanks+goodbye
-    - utter_thanks
-    - utter_goodbye
-* meetup
-    - utter_meetup
-* goodbye
-    - utter_goodbye
-
-## Generated Story 6766470444156886744
-* meetup
-    - utter_meetup
-* goodbye
-    - utter_goodbye
-* goodbye
     - utter_goodbye
-
-## Generated Story 9156548479850685270
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
+
+## Generated Story 8748686373931632772
 * greet
     - utter_greet
 * greet
     - utter_meetup
-* deny
-    - utter_deny
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* thanks
+    - utter_thanks
 * goodbye
     - utter_goodbye
-
-## Generated Story 2740325660535204007
 * greet
     - utter_greet
 * meetup
@@ -2104,37 +2008,32 @@
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* goodbye
     - utter_goodbye
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* deny
-    - utter_deny
-* goodbye
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story 8580854859858799780
-* meetup
-    - utter_meetup
+## Generated Story 3710163418377295708
+* thanks+goodbye
+    - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
-    - utter_goodbye
-* goodbye
     - utter_goodbye
-
-## Generated Story -6419373692548615707
-* meetup
-    - utter_meetup
 * greet
     - utter_greet
 * meetup
@@ -2144,28 +2043,18 @@
     - utter_suggest_transport
 * thanks+goodbye
     - utter_goodbye
-* goodbye
-    - utter_goodbye
 
-## Generated Story -8143598072775018975
+## Generated Story 8856915991934056299
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
+* thanks+goodbye
     - utter_thanks
-* goodbye
-    - utter_goodbye
-* meetup
-    - utter_meetup
-* goodbye
     - utter_goodbye
-
-## Generated Story 6774016510365831178
 * greet
     - utter_greet
 * greet
@@ -2176,55 +2065,54 @@
     - utter_confirm
     - utter_suggest_transport
 * thanks+goodbye
-    - utter_goodbye
-* goodbye
     - utter_goodbye
 
-## Generated Story -3304644685597966094
-* greet
-    - utter_greet
-* greet
+## Generated Story -8589390449063178197
+* meetup
     - utter_meetup
-* deny
-    - utter_deny
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
-* goodbye
-    - utter_goodbye
-* goodbye
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story -8631268633311269857
+## Generated Story -8441814324044682375
 * greet
     - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
+* thanks+goodbye
+    - utter_thanks
+    - utter_goodbye
 * greet
+    - utter_greet
+* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
 * goodbye
     - utter_goodbye
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* deny
-    - utter_deny
-* goodbye
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story -9171019668437098179
+## Generated Story 1751237440616136108
 * greet
     - utter_greet
 * meetup
@@ -2237,100 +2125,107 @@
     - utter_goodbye
 * greet
     - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
+    - utter_goodbye
 * greet
+    - utter_greet
+* meetup
     - utter_meetup
-* deny
-    - utter_deny
-* goodbye
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story 8123112549891226485
+## Generated Story 8609857717885395640
 * greet
     - utter_greet
 * greet
+    - utter_greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
+* thanks+goodbye
     - utter_thanks
-* goodbye
-    - utter_goodbye
-* goodbye
-    - utter_goodbye
-* goodbye
-    - utter_goodbye
-
-## Generated Story -1070929963790317544
-* goodbye
     - utter_goodbye
 * greet
     - utter_greet
-* goodbye
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story 3708972149528048125
+## Generated Story 4335643269988562214
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 * greet
     - utter_greet
-* goodbye
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
+    - utter_thanks
     - utter_goodbye
-
-## Generated Story 9181580767803237071
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
-* goodbye
+* thanks+goodbye
     - utter_goodbye
+
+## Generated Story 5188598379455047740
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
 * goodbye
     - utter_goodbye
-* goodbye
-    - utter_goodbye
-
-## Generated Story 6371438511248434969
 * greet
     - utter_greet
-* goodbye
-    - utter_goodbye
-* goodbye
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
+* thanks+goodbye
+    - utter_thanks
     - utter_goodbye
-
-## Generated Story -2600796040482164430
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_confirm
+    - utter_suggest_transport
 * thanks+goodbye
-    - utter_thanks
     - utter_goodbye
+
+## Generated Story -4202452774770828380
 * greet
     - utter_greet
 * greet
@@ -2339,20 +2234,23 @@
     - utter_deny
 * greet
     - utter_greet
+* greet
+    - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* goodbye
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story 7673913816450776682
-* goodbye
-    - utter_goodbye
+## Generated Story -3209003506817184337
 * greet
     - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
 * greet
     - utter_greet
 * meetup
@@ -2363,10 +2261,6 @@
     - utter_suggest_transport
 * goodbye
     - utter_goodbye
-
-## Generated Story 4257580019723669882
-* meetup
-    - utter_meetup
 * greet
     - utter_greet
 * meetup
@@ -2375,47 +2269,42 @@
     - utter_confirm
     - utter_suggest_transport
 * thanks+goodbye
-    - utter_thanks
     - utter_goodbye
+
+## Generated Story -699964741343627146
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
+* greet
+    - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* goodbye
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story 5820483339124289027
+## Generated Story 4105344233887796695
 * greet
     - utter_greet
-* goodbye
-    - utter_goodbye
 * greet
-    - utter_greet
-* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
+* thanks
+    - utter_thanks
 * goodbye
     - utter_goodbye
-
-## Generated Story -2032754602394333306
 * greet
     - utter_greet
-* meetup
+* greet
     - utter_meetup
-* affirm
-    - utter_confirm
-* ask_transport
-    - utter_suggest_transport
-* thanks+goodbye
-    - utter_thanks
-    - utter_goodbye
+* deny
+    - utter_deny
 * greet
     - utter_greet
 * meetup
@@ -2425,47 +2314,31 @@
     - utter_suggest_transport
 * thanks+goodbye
     - utter_goodbye
-* greet
-    - utter_greet
+
+## Generated Story 1858587360154478059
 * meetup
     - utter_meetup
-* affirm
-    - utter_confirm
-* ask_transport
-    - utter_suggest_transport
-* goodbye
-    - utter_goodbye
-
-## Generated Story -6222048976444126124
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* goodbye
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story 5843550794814312280
+## Generated Story -5253790742609809896
 * greet
     - utter_greet
 * greet
@@ -2478,54 +2351,64 @@
     - utter_thanks
 * goodbye
     - utter_goodbye
-* goodbye
+* greet
+    - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* goodbye
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story -5376438254418427058
+## Generated Story -8853210014557243504
 * greet
     - utter_greet
 * greet
-    - utter_greet
+    - utter_meetup
+* deny
+    - utter_deny
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* goodbye
-    - utter_goodbye
-
-## Generated Story -8804418431047164721
 * thanks+goodbye
     - utter_goodbye
-* meetup
-    - utter_meetup
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* goodbye
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story -4016277894546501998
+## Generated Story -3819084033766207167
 * greet
     - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
+    - utter_goodbye
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
 * meetup
@@ -2534,35 +2417,52 @@
     - utter_confirm
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_goodbye
+
+## Generated Story -4112519492368198152
+* goodbye
     - utter_goodbye
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* goodbye
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story 2280232491244470549
+## Generated Story 4853526640984989592
+* greet
+    - utter_greet
 * meetup
     - utter_meetup
-* goodbye
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
+* thanks+goodbye
+    - utter_thanks
     - utter_goodbye
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* goodbye
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story -7753035008861320192
+## Generated Story -2141666511920936625
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
 * meetup
@@ -2571,33 +2471,30 @@
     - utter_confirm
     - utter_suggest_transport
 * thanks+goodbye
-    - utter_thanks
     - utter_goodbye
-* meetup
-    - utter_meetup
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* goodbye
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story 5382479818945381641
+## Generated Story -2555647965794587480
+* greet
+    - utter_greet
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_confirm
+    - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-* greet
-    - utter_greet
 * greet
     - utter_greet
 * meetup
@@ -2606,21 +2503,19 @@
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* goodbye
+* thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 
-## Generated Story 4252047787763647567
+## Generated Story -7717310309526601483
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
-* goodbye
+* thanks+goodbye
     - utter_goodbye
 * meetup
     - utter_meetup
@@ -2632,10 +2527,11 @@
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* goodbye
+* thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 
-## Generated Story -2599812287685574375
+## Generated Story 81575798923728014
 * greet
     - utter_greet
 * meetup
@@ -2648,10 +2544,13 @@
     - utter_goodbye
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* deny
-    - utter_deny
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
+* thanks+goodbye
+    - utter_thanks
+    - utter_goodbye
 * greet
     - utter_greet
 * meetup
@@ -2660,28 +2559,47 @@
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* goodbye
+* thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 
-## Generated Story 5654496846744067660
+## Generated Story 7747877593713087860
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
+    - utter_goodbye
 * greet
+    - utter_greet
+* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
+* thanks+goodbye
     - utter_thanks
-* goodbye
     - utter_goodbye
+
+## Generated Story 7425566673282808703
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* deny
-    - utter_deny
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
+    - utter_thanks
+    - utter_goodbye
+* greet
+    - utter_greet
 * greet
     - utter_greet
 * meetup
@@ -2690,18 +2608,17 @@
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* goodbye
+* thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 
-## Generated Story 1770169719772217097
+## Generated Story -315309127339848398
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
-    - utter_confirm
-* ask_transport
-    - utter_suggest_transport
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
@@ -2709,11 +2626,11 @@
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* goodbye
+* thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 * greet
     - utter_greet
@@ -2723,10 +2640,11 @@
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* goodbye
+* thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 
-## Generated Story -6527076867449807522
+## Generated Story -5249800864382675028
 * greet
     - utter_greet
 * greet
@@ -2735,16 +2653,30 @@
     - utter_deny
 * greet
     - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
+    - utter_goodbye
 * greet
+    - utter_greet
+* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
+* thanks+goodbye
     - utter_thanks
-* goodbye
     - utter_goodbye
+
+## Generated Story 8919816000007796262
+* meetup
+    - utter_meetup
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
 * meetup
@@ -2753,10 +2685,11 @@
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* goodbye
+* thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 
-## Generated Story 6504246034611863174
+## Generated Story 9080122088551304345
 * greet
     - utter_greet
 * greet
@@ -2771,14 +2704,12 @@
     - utter_goodbye
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
 * goodbye
     - utter_goodbye
 * greet
@@ -2789,21 +2720,28 @@
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* goodbye
+* thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 
-## Generated Story -6281629787580820232
+## Generated Story -7895059374598662755
 * meetup
     - utter_meetup
+* greet
+    - utter_greet
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
+
+## Generated Story 7897794030451584631
 * greet
     - utter_greet
 * meetup
@@ -2814,129 +2752,118 @@
     - utter_suggest_transport
 * goodbye
     - utter_goodbye
-
-## Generated Story -1442449771928051100
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
-* goodbye
+* thanks+goodbye
     - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 
-## Generated Story 8204587284834128069
+## Generated Story -5918105492948702552
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 * greet
     - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
-* greet
-    - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
-* thanks+goodbye
-    - utter_goodbye
-
-## Generated Story -8107858475695503388
-* meetup
-    - utter_meetup
 * goodbye
     - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 
-## Generated Story -3284211498531748276
+## Generated Story 7424779570466037911
+* goodbye
+    - utter_goodbye
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
+* thanks+goodbye
     - utter_thanks
-* goodbye
     - utter_goodbye
+
+## Generated Story -7435485601932362263
 * greet
     - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
 * greet
+    - utter_greet
+* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
 * goodbye
     - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 
-## Generated Story 2534894836742797832
+## Generated Story -1035587200697670896
 * greet
     - utter_greet
-* meetup
+* greet
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
+* thanks
+    - utter_thanks
 * goodbye
     - utter_goodbye
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
 * greet
     - utter_greet
 * meetup
@@ -2945,9 +2872,8 @@
     - utter_confirm
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
-
-## Generated Story -4385335224158156400
 * greet
     - utter_greet
 * meetup
@@ -2959,16 +2885,10 @@
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-* greet
-    - utter_greet
+
+## Generated Story -8167692211818795248
 * meetup
     - utter_meetup
-* affirm
-    - utter_confirm
-* ask_transport
-    - utter_suggest_transport
-* goodbye
-    - utter_goodbye
 * greet
     - utter_greet
 * meetup
@@ -2977,9 +2897,8 @@
     - utter_confirm
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
-
-## Generated Story 2478705068191451159
 * greet
     - utter_greet
 * meetup
@@ -2990,27 +2909,35 @@
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
+    - utter_goodbye
+
+## Generated Story -1758353838974406415
+* thanks+goodbye
     - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 
-## Generated Story -7113547886253259252
+## Generated Story -5324717143497665570
 * greet
     - utter_greet
 * greet
@@ -3033,21 +2960,21 @@
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 
-## Generated Story 5776664303490030484
+## Generated Story 7580086045765546488
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
-    - utter_confirm
-* ask_transport
-    - utter_suggest_transport
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
@@ -3061,97 +2988,79 @@
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 
-## Generated Story 8333797829762179499
+## Generated Story 5267643052304846082
 * greet
     - utter_greet
-* meetup
+* greet
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm_suggest_transport
-* thanks+goodbye
-    - utter_thanks
-    - utter_goodbye
+* deny
+    - utter_deny
 * greet
     - utter_greet
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 
-## Generated Story 4846256346156758991
-* greet
-    - utter_greet
+## Generated Story -706776655746364224
 * greet
     - utter_greet
-* greet
-    - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
-
-## Generated Story -1197406518429981478
-* meetup
-    - utter_meetup
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
-* thanks+goodbye
+* goodbye
     - utter_goodbye
 * greet
     - utter_greet
-* meetup
-    - utter_meetup
-* affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
-* thanks+goodbye
-    - utter_goodbye
 
-## Generated Story 103400467845235529
+## Generated Story 7882464102657988347
 * greet
     - utter_greet
 * greet
     - utter_meetup
+* deny
+    - utter_deny
+* greet
+    - utter_greet
+* meetup
+    - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
 * goodbye
     - utter_goodbye
-* meetup
-    - utter_meetup
 * greet
     - utter_greet
-* meetup
-    - utter_meetup
-* affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
-* thanks+goodbye
-    - utter_goodbye
 
-## Generated Story 2837029208051544260
+## Generated Story -3450989381383076493
 * greet
     - utter_greet
 * meetup
@@ -3160,47 +3069,46 @@
     - utter_confirm
     - utter_suggest_transport
 * thanks+goodbye
-    - utter_thanks
     - utter_goodbye
 * meetup
     - utter_meetup
 * greet
     - utter_greet
-* meetup
-    - utter_meetup
-* affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
-* thanks+goodbye
-    - utter_goodbye
 
-## Generated Story 2252427230407289521
+## Generated Story -3015859185153813136
 * greet
     - utter_greet
-* goodbye
-    - utter_goodbye
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
+* greet
+    - utter_greet
+* greet
+    - utter_greet
+
+## Generated Story -4962773895033170518
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
-
-## Generated Story -6291322859352610288
 * greet
     - utter_greet
 * greet
+    - utter_meetup
+* deny
+    - utter_deny
+* greet
     - utter_greet
+
+## Generated Story 1243178398883633748
 * meetup
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
-* thanks+goodbye
-    - utter_goodbye
 * greet
     - utter_greet
 * meetup
@@ -3209,9 +3117,12 @@
     - utter_confirm
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
+* greet
+    - utter_greet
 
-## Generated Story 2877834044941265733
+## Generated Story 5483967989757591504
 * greet
     - utter_greet
 * greet
@@ -3222,8 +3133,6 @@
     - utter_suggest_transport
 * thanks
     - utter_thanks
-* goodbye
-    - utter_goodbye
 * goodbye
     - utter_goodbye
 * greet
@@ -3234,36 +3143,30 @@
     - utter_confirm
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
+* greet
+    - utter_greet
 
-## Generated Story 1744732458178301559
+## Generated Story 8273922141785278297
 * meetup
     - utter_meetup
-* greet
-    - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
-* thanks+goodbye
-    - utter_thanks
-    - utter_goodbye
 * greet
     - utter_greet
-* meetup
-    - utter_meetup
-* affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
-* thanks+goodbye
-    - utter_goodbye
 
-## Generated Story 2785937212804492963
+## Generated Story 4313348081490347648
 * goodbye
     - utter_goodbye
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
+
+## Generated Story 9071684362932084603
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
 * meetup
@@ -3273,80 +3176,59 @@
     - utter_suggest_transport
 * thanks+goodbye
     - utter_goodbye
+* greet
+    - utter_greet
 
-## Generated Story -1515572537980463119
-* thanks+goodbye
-    - utter_goodbye
-* meetup
-    - utter_meetup
+## Generated Story -7844949726091389460
 * greet
     - utter_greet
-* meetup
+* greet
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
-* thanks+goodbye
+* thanks
+    - utter_thanks
+* goodbye
     - utter_goodbye
-
-## Generated Story -6227423740452094650
-* meetup
-    - utter_meetup
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
-* thanks+goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-
-## Generated Story -8320118866378232403
-* greet
-    - utter_greet
 * goodbye
     - utter_goodbye
 * greet
     - utter_greet
 
-## Generated Story 473408900920331396
+## Generated Story 8672681036258535140
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* goodbye
     - utter_goodbye
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
 * greet
     - utter_greet
-
-## Generated Story 5202612749429044684
-* greet
-    - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-* greet
-    - utter_greet
 * greet
     - utter_greet
 
-## Generated Story 7864839864898802553
+## Generated Story -3671832486506584817
 * greet
     - utter_greet
 * greet
@@ -3368,9 +3250,16 @@
 * greet
     - utter_greet
 
-## Generated Story 3115891865222778944
+## Generated Story 3569711960229276150
 * greet
     - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
+* thanks+goodbye
+    - utter_thanks
+    - utter_goodbye
 * greet
     - utter_greet
 * meetup
@@ -3379,11 +3268,12 @@
     - utter_confirm
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 * greet
     - utter_greet
 
-## Generated Story 2387920926129290096
+## Generated Story 1282667476428861316
 * greet
     - utter_greet
 * meetup
@@ -3394,12 +3284,14 @@
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-* meetup
-    - utter_meetup
+* greet
+    - utter_greet
 * greet
     - utter_greet
 
-## Generated Story 916637004780125437
+## Generated Story -7800475486480720071
+* thanks+goodbye
+    - utter_goodbye
 * greet
     - utter_greet
 * meetup
@@ -3413,51 +3305,39 @@
     - utter_goodbye
 * greet
     - utter_greet
+
+## Generated Story 3898989067635884700
 * meetup
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
-* thanks+goodbye
-    - utter_goodbye
 * greet
     - utter_greet
+* greet
+    - utter_greet
 
-## Generated Story 8274720838443799205
-* meetup
-    - utter_meetup
+## Generated Story -377713900417805520
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* goodbye
     - utter_goodbye
-* greet
-    - utter_greet
-
-## Generated Story -7149937150977240251
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
-* goodbye
-    - utter_goodbye
-* goodbye
+* thanks+goodbye
     - utter_goodbye
 * greet
     - utter_greet
 
-## Generated Story -1153211568861125121
+## Generated Story -3833041720957871073
 * greet
     - utter_greet
 * greet
@@ -3466,119 +3346,114 @@
     - utter_deny
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
-* goodbye
+* thanks+goodbye
     - utter_goodbye
 * greet
     - utter_greet
 
-## Generated Story 3724082807035968893
+## Generated Story 8023417459032593625
 * greet
     - utter_greet
 * greet
+    - utter_greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
+* thanks+goodbye
     - utter_thanks
-* goodbye
     - utter_goodbye
 * greet
     - utter_greet
+
+## Generated Story -3986038293567340573
+* greet
+    - utter_greet
 * greet
     - utter_meetup
-* affirm
-    - utter_confirm
-* ask_transport
-    - utter_suggest_transport
-* thanks
-    - utter_thanks
-* goodbye
-    - utter_goodbye
+* deny
+    - utter_deny
 * greet
     - utter_greet
-
-## Generated Story 5573828897818483872
-* thanks+goodbye
-    - utter_goodbye
 * meetup
     - utter_meetup
-* greet
-    - utter_greet
 
-## Generated Story 327825602957621626
+## Generated Story -915726532725751440
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
-* goodbye
+* thanks+goodbye
     - utter_goodbye
 * meetup
     - utter_meetup
+
+## Generated Story -8124706622409206821
 * greet
     - utter_greet
-
-## Generated Story 7556331261891689121
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-* greet
-    - utter_greet
-* greet
+* meetup
     - utter_meetup
-* deny
-    - utter_deny
-* greet
-    - utter_greet
 
-## Generated Story 247322315092297021
+## Generated Story 2382236454249729831
 * goodbye
     - utter_goodbye
-* greet
-    - utter_greet
-* greet
-    - utter_greet
+* meetup
+    - utter_meetup
+* meetup
+    - utter_meetup
 
-## Generated Story -3465657814730798879
-* greet
-    - utter_greet
+## Generated Story -1247630046478119021
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
+    - utter_thanks
+    - utter_goodbye
+* meetup
+    - utter_meetup
+
+## Generated Story 6643300707669953597
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
+* meetup
+    - utter_meetup
 
-## Generated Story -4090338737375208116
+## Generated Story 6474612510018333281
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
-    - utter_confirm
-* ask_transport
-    - utter_suggest_transport
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
@@ -3592,18 +3467,26 @@
     - utter_suggest_transport
 * goodbye
     - utter_goodbye
+* meetup
+    - utter_meetup
+
+## Generated Story 8505600872068488709
 * greet
     - utter_greet
-
-## Generated Story -1185435813596568286
 * meetup
     - utter_meetup
-* goodbye
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 * greet
     - utter_greet
+* meetup
+    - utter_meetup
 
-## Generated Story -5510425904438465403
+## Generated Story 6538589707942501324
 * greet
     - utter_greet
 * meetup
@@ -3614,50 +3497,38 @@
     - utter_suggest_transport
 * goodbye
     - utter_goodbye
-* greet
-    - utter_greet
 * greet
-    - utter_meetup
-* deny
-    - utter_deny
-* greet
     - utter_greet
-
-## Generated Story -1181002901785158581
-* greet
-    - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
+* meetup
+    - utter_meetup
+
+## Generated Story -4500983830035999973
 * greet
     - utter_greet
 * greet
     - utter_meetup
 * deny
     - utter_deny
-* meetup
-    - utter_meetup
-
-## Generated Story 1867403502525078206
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_confirm
+    - utter_suggest_transport
 * thanks+goodbye
-    - utter_thanks
     - utter_goodbye
-* greet
-    - utter_greet
 * meetup
     - utter_meetup
 
-## Generated Story -3044148220351862746
+## Generated Story 2319744204227805063
 * greet
     - utter_greet
 * greet
@@ -3679,37 +3550,26 @@
 * meetup
     - utter_meetup
 
-## Generated Story 6644910514409733704
-* meetup
-    - utter_meetup
+## Generated Story 3832304388767609521
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
-* meetup
-    - utter_meetup
-
-## Generated Story -7512315291736127636
 * greet
     - utter_greet
 * greet
-    - utter_greet
-* meetup
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
-* thanks+goodbye
-    - utter_goodbye
+* deny
+    - utter_deny
 * meetup
     - utter_meetup
 
-## Generated Story -1859422340987405550
+## Generated Story -1646868483831592390
 * greet
     - utter_greet
 * greet
@@ -3720,30 +3580,22 @@
     - utter_suggest_transport
 * thanks
     - utter_thanks
-* goodbye
-    - utter_goodbye
 * goodbye
     - utter_goodbye
-* meetup
-    - utter_meetup
-
-## Generated Story -8800412533171708284
 * greet
     - utter_greet
-* goodbye
-    - utter_goodbye
 * meetup
     - utter_meetup
-
-## Generated Story 3123923989694744037
-* thanks+goodbye
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* goodbye
     - utter_goodbye
-* meetup
-    - utter_meetup
 * meetup
     - utter_meetup
 
-## Generated Story -9027682990985376214
+## Generated Story -7091598729501235712
 * greet
     - utter_greet
 * greet
@@ -3752,65 +3604,73 @@
     - utter_deny
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
 * goodbye
     - utter_goodbye
 * meetup
     - utter_meetup
 
-## Generated Story 732083653739137088
+## Generated Story 6385713796499342866
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
+* greet
+    - utter_greet
 * meetup
     - utter_meetup
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
+    - utter_thanks
+    - utter_goodbye
 * meetup
     - utter_meetup
 
-## Generated Story 9054661044364687015
+## Generated Story 3918944766222981419
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
-    - utter_thanks
     - utter_goodbye
-* greet
-    - utter_greet
-* greet
+* meetup
     - utter_meetup
-* deny
-    - utter_deny
 * meetup
     - utter_meetup
 
-## Generated Story 5376041191004269883
+## Generated Story 222634528872059739
+* meetup
+    - utter_meetup
+* meetup
+    - utter_meetup
 * meetup
     - utter_meetup
+
+## Generated Story -4861769848474594236
+* thanks+goodbye
+    - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
@@ -3818,15 +3678,30 @@
 * meetup
     - utter_meetup
 
-## Generated Story 2729561880390900097
+## Generated Story 6487188874928679640
+* greet
+    - utter_greet
+* meetup
+    - utter_meetup
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
 * goodbye
     - utter_goodbye
 * greet
     - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
+    - utter_goodbye
 * meetup
     - utter_meetup
 
-## Generated Story 509549506008906743
+## Generated Story 6839942490531239974
 * greet
     - utter_greet
 * greet
@@ -3841,28 +3716,30 @@
     - utter_goodbye
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
+* thanks+goodbye
     - utter_thanks
-* goodbye
     - utter_goodbye
 * meetup
     - utter_meetup
 
-## Generated Story -4651075957267710890
+## Generated Story -6656922852499420306
 * greet
     - utter_greet
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-
-## Generated Story 2119231843940575233
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
+    - utter_thanks
+    - utter_goodbye
 * greet
     - utter_greet
 * meetup
@@ -3873,16 +3750,12 @@
     - utter_suggest_transport
 * goodbye
     - utter_goodbye
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
+
+## Generated Story -783086825795786762
+* goodbye
+    - utter_goodbye
 * meetup
     - utter_meetup
-
-## Generated Story -4688486424587383236
 * greet
     - utter_greet
 * meetup
@@ -3891,9 +3764,12 @@
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* goodbye
     - utter_goodbye
+
+## Generated Story 2701813346274054261
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
 * meetup
@@ -3902,62 +3778,44 @@
     - utter_confirm
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
-* meetup
-    - utter_meetup
-
-## Generated Story 6608586670325410289
+* greet
+    - utter_greet
 * meetup
     - utter_meetup
-* goodbye
-    - utter_goodbye
-* meetup
-    - utter_meetup
-
-## Generated Story -3170744431916254280
-* greet
-    - utter_greet
-* meetup
-    - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* goodbye
     - utter_goodbye
+
+## Generated Story 9187282449194614938
 * greet
     - utter_greet
-* meetup
-    - utter_meetup
-* affirm
-    - utter_confirm
-* ask_transport
-    - utter_suggest_transport
-* goodbye
-    - utter_goodbye
-* meetup
+* greet
     - utter_meetup
-
-## Generated Story -4991388824210002263
+* deny
+    - utter_deny
 * greet
     - utter_greet
 * greet
+    - utter_greet
+* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
 * goodbye
     - utter_goodbye
-* meetup
-    - utter_meetup
+
+## Generated Story 8248026276484704324
 * meetup
     - utter_meetup
-
-## Generated Story 4233976832661440966
+* greet
+    - utter_greet
 * greet
     - utter_greet
 * meetup
@@ -3968,6 +3826,8 @@
     - utter_suggest_transport
 * goodbye
     - utter_goodbye
+
+## Generated Story -7293220353211471906
 * greet
     - utter_greet
 * greet
@@ -3979,37 +3839,24 @@
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_confirm
+    - utter_suggest_transport
 * thanks+goodbye
-    - utter_thanks
     - utter_goodbye
-
-## Generated Story -1504977265903201224
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
 * goodbye
     - utter_goodbye
-* meetup
-    - utter_meetup
-* greet
-    - utter_greet
+
+## Generated Story 6377292261031013162
 * meetup
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm_suggest_transport
-* thanks+goodbye
-    - utter_thanks
-    - utter_goodbye
-
-## Generated Story 2552242615574140943
 * greet
     - utter_greet
 * meetup
@@ -4018,21 +3865,19 @@
     - utter_confirm
     - utter_suggest_transport
 * thanks+goodbye
-    - utter_thanks
     - utter_goodbye
-* meetup
-    - utter_meetup
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* goodbye
     - utter_goodbye
 
-## Generated Story -2540378780846815785
+## Generated Story 1116474672438386534
 * greet
     - utter_greet
 * greet
@@ -4047,37 +3892,37 @@
     - utter_goodbye
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
 * goodbye
     - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* goodbye
     - utter_goodbye
 
-## Generated Story -8363600156856037607
+## Generated Story 4301893680986769522
 * greet
     - utter_greet
-* meetup
+* greet
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks+goodbye
+* thanks
     - utter_thanks
+* goodbye
     - utter_goodbye
 * greet
     - utter_greet
@@ -4085,138 +3930,149 @@
     - utter_meetup
 * deny
     - utter_deny
+* greet
+    - utter_greet
+* meetup
+    - utter_meetup
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* goodbye
+    - utter_goodbye
+
+## Generated Story -5237602196187567953
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-
-## Generated Story -4003125582938673363
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* deny
-    - utter_deny
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* goodbye
+    - utter_goodbye
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
 * goodbye
     - utter_goodbye
+
+## Generated Story -6453325529551226083
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-
-## Generated Story -9003309389909701092
-* greet
-    - utter_greet
-* greet
-    - utter_greet
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_confirm
+    - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-
-## Generated Story -6073982483418532101
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
 * goodbye
     - utter_goodbye
+
+## Generated Story -7506335784491585532
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* deny
-    - utter_deny
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* goodbye
+    - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-
-## Generated Story 1551453840658948597
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
-* goodbye
-    - utter_goodbye
 * goodbye
     - utter_goodbye
+
+## Generated Story -9089901792549889988
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_confirm
+    - utter_suggest_transport
 * thanks+goodbye
-    - utter_thanks
     - utter_goodbye
-
-## Generated Story -5012147182756173288
 * meetup
     - utter_meetup
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* goodbye
     - utter_goodbye
+
+## Generated Story 2479207858726254352
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-
-## Generated Story -5153760294327053071
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
 * greet
     - utter_greet
 * meetup
@@ -4225,9 +4081,14 @@
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* goodbye
     - utter_goodbye
+
+## Generated Story 5393815792604745512
+* meetup
+    - utter_meetup
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
 * meetup
@@ -4237,44 +4098,31 @@
 * ask_transport
     - utter_suggest_transport
 * goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* meetup
-    - utter_meetup
-* affirm+ask_transport
-    - utter_confirm_suggest_transport
-* thanks+goodbye
-    - utter_thanks
     - utter_goodbye
 
-## Generated Story -5998651342126000628
+## Generated Story 8903892867914870161
 * greet
     - utter_greet
-* meetup
+* greet
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm_suggest_transport
-* thanks+goodbye
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* thanks
     - utter_thanks
+* goodbye
     - utter_goodbye
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_confirm
+    - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-
-## Generated Story -4889630125325126127
 * greet
     - utter_greet
 * meetup
@@ -4283,9 +4131,10 @@
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* goodbye
     - utter_goodbye
+
+## Generated Story -2988579867970716887
 * greet
     - utter_greet
 * meetup
@@ -4294,20 +4143,32 @@
     - utter_confirm
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
+* greet
+    - utter_greet
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* goodbye
     - utter_goodbye
 
-## Generated Story 4409809756460869064
+## Generated Story -6710052051697928177
 * greet
     - utter_greet
+* meetup
+    - utter_meetup
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* goodbye
+    - utter_goodbye
 * greet
     - utter_greet
 * meetup
@@ -4321,67 +4182,77 @@
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* goodbye
     - utter_goodbye
 
-## Generated Story 2107653564861382820
+## Generated Story 4083034514198997557
 * thanks+goodbye
     - utter_goodbye
-* meetup
-    - utter_meetup
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm_suggest_transport
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-
-## Generated Story -2816660557277090842
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* goodbye
     - utter_goodbye
+
+## Generated Story -5455457325683510842
 * greet
     - utter_greet
 * greet
-    - utter_greet
-* meetup
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm_suggest_transport
-* thanks+goodbye
-    - utter_thanks
-    - utter_goodbye
-
-## Generated Story -3129125781142187996
+* deny
+    - utter_deny
 * greet
     - utter_greet
+* meetup
+    - utter_meetup
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
 * goodbye
     - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* goodbye
     - utter_goodbye
 
-## Generated Story -1791267138330926506
-* meetup
+## Generated Story -834863293522463220
+* greet
+    - utter_greet
+* greet
     - utter_meetup
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* thanks
+    - utter_thanks
 * goodbye
     - utter_goodbye
 * greet
@@ -4389,51 +4260,86 @@
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_confirm
+    - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
+* goodbye
+    - utter_goodbye
 
-## Generated Story 566220347198354605
-* meetup
+## Generated Story -5809539860665348011
+* greet
+    - utter_greet
+* greet
     - utter_meetup
+* deny
+    - utter_deny
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
-* thanks+goodbye
+* goodbye
+    - utter_goodbye
+* goodbye
     - utter_goodbye
+
+## Generated Story -3929501613164359783
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-
-## Generated Story -4944328315096506232
-* goodbye
-    - utter_goodbye
 * greet
     - utter_greet
+* meetup
+    - utter_meetup
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* goodbye
+    - utter_goodbye
+* goodbye
+    - utter_goodbye
+
+## Generated Story 5309060313746759389
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
+    - utter_goodbye
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
+* goodbye
     - utter_goodbye
 
-## Generated Story 1661484882177434833
+## Generated Story 7653042898901319360
+* greet
+    - utter_greet
 * meetup
     - utter_meetup
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
+* thanks+goodbye
+    - utter_thanks
+    - utter_goodbye
 * greet
     - utter_greet
 * meetup
@@ -4444,10 +4350,10 @@
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-* thanks+goodbye
+* goodbye
     - utter_goodbye
 
-## Generated Story 3131107761807071801
+## Generated Story 2530134376915647389
 * greet
     - utter_greet
 * greet
@@ -4466,12 +4372,20 @@
     - utter_meetup
 * deny
     - utter_deny
-* thanks+goodbye
+* goodbye
     - utter_goodbye
 
-## Generated Story 871705830330947206
-* greet
-    - utter_greet
+## Generated Story -2878385809254711396
+* meetup
+    - utter_meetup
+* meetup
+    - utter_meetup
+* goodbye
+    - utter_goodbye
+
+## Generated Story -2048481043997125177
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
 * meetup
@@ -4480,29 +4394,31 @@
     - utter_confirm
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
-* thanks+goodbye
+* goodbye
     - utter_goodbye
 
-## Generated Story -4368972429834016689
+## Generated Story 6923629248451000717
 * greet
     - utter_greet
 * greet
     - utter_meetup
-* affirm
+* deny
+    - utter_deny
+* greet
+    - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
-* goodbye
+* thanks+goodbye
     - utter_goodbye
 * goodbye
-    - utter_goodbye
-* thanks+goodbye
     - utter_goodbye
 
-## Generated Story 2538622079214868101
+## Generated Story 3982419776059628865
 * greet
     - utter_greet
 * meetup
@@ -4511,38 +4427,54 @@
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* goodbye
     - utter_goodbye
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* deny
-    - utter_deny
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
+    - utter_thanks
+    - utter_goodbye
+* goodbye
     - utter_goodbye
 
-## Generated Story 5815601358651274041
+## Generated Story -8086394950200822646
+* thanks+goodbye
+    - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm_suggest_transport
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
+    - utter_goodbye
+* goodbye
     - utter_goodbye
+
+## Generated Story -2497439866053804146
 * greet
     - utter_greet
 * greet
+    - utter_greet
+* meetup
     - utter_meetup
-* deny
-    - utter_deny
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
+    - utter_goodbye
+* goodbye
     - utter_goodbye
 
-## Generated Story 7494681166329323998
+## Generated Story 7404520959564640551
 * greet
     - utter_greet
 * meetup
@@ -4553,20 +4485,20 @@
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-* meetup
-    - utter_meetup
-* thanks+goodbye
+* greet
+    - utter_greet
+* goodbye
     - utter_goodbye
 
-## Generated Story 3193582569916520891
+## Generated Story 3648656588177368884
 * meetup
     - utter_meetup
+* greet
+    - utter_greet
 * goodbye
     - utter_goodbye
-* thanks+goodbye
-    - utter_goodbye
 
-## Generated Story -819018120765439556
+## Generated Story 2553759566327812093
 * greet
     - utter_greet
 * greet
@@ -4578,13 +4510,7 @@
 * thanks
     - utter_thanks
 * goodbye
-    - utter_goodbye
-* meetup
-    - utter_meetup
-* thanks+goodbye
     - utter_goodbye
-
-## Generated Story 6457309407412425651
 * greet
     - utter_greet
 * meetup
@@ -4593,9 +4519,22 @@
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* goodbye
+    - utter_goodbye
+* goodbye
+    - utter_goodbye
+
+## Generated Story -2495352381007983710
+* goodbye
+    - utter_goodbye
+* meetup
+    - utter_meetup
+* goodbye
     - utter_goodbye
+
+## Generated Story 7910971686538132782
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
 * meetup
@@ -4605,83 +4544,86 @@
     - utter_suggest_transport
 * thanks+goodbye
     - utter_goodbye
-* thanks+goodbye
+* goodbye
     - utter_goodbye
 
-## Generated Story 5040867699085628115
+## Generated Story -5640640093466800130
 * greet
     - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
-* greet
-    - utter_greet
-* greet
+* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
 * goodbye
-    - utter_goodbye
-* thanks+goodbye
-    - utter_goodbye
-
-## Generated Story 7716391313576392426
-* thanks+goodbye
-    - utter_goodbye
-* meetup
-    - utter_meetup
-* thanks+goodbye
     - utter_goodbye
-
-## Generated Story 6243323681763857416
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
+* thanks+goodbye
+    - utter_goodbye
 * goodbye
     - utter_goodbye
+
+## Generated Story 5622406743024689156
 * greet
     - utter_greet
 * greet
     - utter_meetup
 * deny
     - utter_deny
-* thanks+goodbye
+* greet
+    - utter_greet
+* goodbye
     - utter_goodbye
 
-## Generated Story 7559553066720247225
+## Generated Story -1030258841254295130
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_confirm
+    - utter_suggest_transport
 * thanks+goodbye
-    - utter_thanks
+    - utter_goodbye
+* meetup
+    - utter_meetup
+* goodbye
     - utter_goodbye
+
+## Generated Story 3471852256250784698
 * greet
     - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
 * thanks+goodbye
-    - utter_goodbye
-
-## Generated Story 4999880131831728154
-* goodbye
+    - utter_thanks
     - utter_goodbye
 * greet
     - utter_greet
-* thanks+goodbye
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* thanks
+    - utter_thanks
+* goodbye
     - utter_goodbye
 
-## Generated Story -2445537871639932108
+## Generated Story 2275272169054189509
 * meetup
     - utter_meetup
 * greet
@@ -4691,23 +4633,22 @@
 * affirm+ask_transport
     - utter_confirm
     - utter_suggest_transport
-* thanks+goodbye
-    - utter_goodbye
 * thanks+goodbye
     - utter_goodbye
-
-## Generated Story -5500705297667187929
 * greet
     - utter_greet
-* meetup
+* greet
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks+goodbye
+* thanks
     - utter_thanks
+* goodbye
     - utter_goodbye
+
+## Generated Story -6004189499823908694
 * greet
     - utter_greet
 * meetup
@@ -4718,36 +4659,46 @@
     - utter_suggest_transport
 * goodbye
     - utter_goodbye
+* greet
+    - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
 * thanks+goodbye
     - utter_goodbye
-
-## Generated Story -5942719397917476654
 * greet
     - utter_greet
 * greet
-    - utter_greet
-* thanks+goodbye
+    - utter_meetup
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* thanks
+    - utter_thanks
+* goodbye
     - utter_goodbye
 
-## Generated Story -423559351112409669
+## Generated Story -8748244448601088471
 * greet
     - utter_greet
-* goodbye
-    - utter_goodbye
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
-
-## Generated Story -4418565991113751055
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
 * goodbye
     - utter_goodbye
 * greet
@@ -4762,29 +4713,19 @@
     - utter_thanks
 * goodbye
     - utter_goodbye
-* thanks+goodbye
-    - utter_goodbye
 
-## Generated Story 6248633637704341630
+## Generated Story -1936544420654735370
 * greet
     - utter_greet
-* meetup
+* greet
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks+goodbye
+* thanks
     - utter_thanks
-    - utter_goodbye
-* greet
-    - utter_greet
-* meetup
-    - utter_meetup
-* affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
-* thanks+goodbye
+* goodbye
     - utter_goodbye
 * greet
     - utter_greet
@@ -4792,32 +4733,50 @@
     - utter_meetup
 * deny
     - utter_deny
-
-## Generated Story -9218299902811262672
 * greet
     - utter_greet
+* greet
+    - utter_meetup
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* thanks
+    - utter_thanks
 * goodbye
     - utter_goodbye
+
+## Generated Story 6803761870276228089
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
 * greet
-    - utter_meetup
-* deny
-    - utter_deny
-
-## Generated Story -4492555008855137931
-* meetup
+    - utter_greet
+* greet
     - utter_meetup
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* thanks
+    - utter_thanks
 * goodbye
     - utter_goodbye
+
+## Generated Story -6689997363884975227
 * greet
     - utter_greet
 * greet
     - utter_meetup
-* deny
-    - utter_deny
-
-## Generated Story 1992706102495388131
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* thanks
+    - utter_thanks
+* goodbye
+    - utter_goodbye
 * greet
     - utter_greet
 * meetup
@@ -4828,23 +4787,7 @@
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-* meetup
-    - utter_meetup
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
-
-## Generated Story -4279215864548515589
-* greet
-    - utter_greet
 * greet
-    - utter_meetup
-* deny
-    - utter_deny
-* greet
     - utter_greet
 * greet
     - utter_meetup
@@ -4856,16 +4799,17 @@
     - utter_thanks
 * goodbye
     - utter_goodbye
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
 
-## Generated Story 2225116509983249111
+## Generated Story -8608007355797257867
 * greet
     - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
+* thanks+goodbye
+    - utter_thanks
+    - utter_goodbye
 * greet
     - utter_greet
 * meetup
@@ -4874,39 +4818,24 @@
     - utter_confirm
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 * greet
     - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
-
-## Generated Story 6944734015218711608
 * greet
-    - utter_greet
-* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
+* thanks
+    - utter_thanks
 * goodbye
     - utter_goodbye
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
 
-## Generated Story 813518835543375271
+## Generated Story 5698492121991207592
+* thanks+goodbye
+    - utter_goodbye
 * greet
     - utter_greet
 * meetup
@@ -4922,16 +4851,22 @@
     - utter_greet
 * greet
     - utter_meetup
-* deny
-    - utter_deny
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* thanks
+    - utter_thanks
+* goodbye
+    - utter_goodbye
+
+## Generated Story 6935450224099129711
 * greet
     - utter_greet
 * greet
     - utter_meetup
 * deny
     - utter_deny
-
-## Generated Story 3556608463007776107
 * greet
     - utter_greet
 * meetup
@@ -4940,27 +4875,34 @@
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* goodbye
     - utter_goodbye
 * greet
     - utter_greet
-* meetup
+* greet
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
+* thanks
+    - utter_thanks
 * goodbye
     - utter_goodbye
+
+## Generated Story 6704353789376617595
 * greet
     - utter_greet
 * greet
+    - utter_greet
+* meetup
     - utter_meetup
-* deny
-    - utter_deny
-
-## Generated Story -3545568301263874964
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
+    - utter_thanks
+    - utter_goodbye
 * greet
     - utter_greet
 * greet
@@ -4973,22 +4915,40 @@
     - utter_thanks
 * goodbye
     - utter_goodbye
+
+## Generated Story -4431285236765185397
 * meetup
     - utter_meetup
+* greet
+    - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
+    - utter_thanks
+    - utter_goodbye
 * greet
     - utter_greet
 * greet
     - utter_meetup
-* deny
-    - utter_deny
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* thanks
+    - utter_thanks
+* goodbye
+    - utter_goodbye
 
-## Generated Story 5111840769509394545
+## Generated Story 1960114701378122368
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
@@ -5002,10 +4962,20 @@
     - utter_greet
 * greet
     - utter_meetup
-* deny
-    - utter_deny
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* thanks
+    - utter_thanks
+* goodbye
+    - utter_goodbye
 
-## Generated Story -6012267359251813886
+## Generated Story 5915359221629365921
+* meetup
+    - utter_meetup
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
 * greet
@@ -5018,20 +4988,19 @@
     - utter_thanks
 * goodbye
     - utter_goodbye
+
+## Generated Story 6553695107375186026
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* deny
-    - utter_deny
-* greet
-    - utter_greet
-* greet
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
+    - utter_goodbye
+* meetup
     - utter_meetup
-* deny
-    - utter_deny
-
-## Generated Story 2356322808784901524
 * greet
     - utter_greet
 * greet
@@ -5042,8 +5011,14 @@
     - utter_suggest_transport
 * thanks
     - utter_thanks
+* goodbye
+    - utter_goodbye
+
+## Generated Story -5850748544382657313
 * goodbye
     - utter_goodbye
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
 * greet
@@ -5056,141 +5031,128 @@
     - utter_thanks
 * goodbye
     - utter_goodbye
+
+## Generated Story 3233371005666962650
 * greet
     - utter_greet
 * greet
     - utter_meetup
 * deny
     - utter_deny
-
-## Generated Story -8111934574208877450
-* greet
-    - utter_greet
 * greet
     - utter_greet
 * greet
     - utter_greet
 * greet
     - utter_meetup
-* deny
-    - utter_deny
-
-## Generated Story 1163069530978140565
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* thanks
+    - utter_thanks
 * goodbye
     - utter_goodbye
-* greet
-    - utter_greet
+
+## Generated Story 1458752398379547287
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* deny
-    - utter_deny
-
-## Generated Story 8722482799177037679
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* goodbye
+    - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-* greet
-    - utter_greet
 * greet
     - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
-
-## Generated Story -2939308186499985955
-* meetup
-    - utter_meetup
 * greet
-    - utter_greet
-* meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
-* thanks+goodbye
+* thanks
+    - utter_thanks
+* goodbye
     - utter_goodbye
+
+## Generated Story -2390560248660230656
 * greet
     - utter_greet
 * greet
-    - utter_meetup
-* deny
-    - utter_deny
-
-## Generated Story -3573671940077178884
-* meetup
     - utter_meetup
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* thanks
+    - utter_thanks
+* goodbye
+    - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* goodbye
     - utter_goodbye
 * greet
     - utter_greet
 * greet
     - utter_meetup
-* deny
-    - utter_deny
-
-## Generated Story 919089005145831151
-* thanks+goodbye
-    - utter_goodbye
-* meetup
-    - utter_meetup
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
-
-## Generated Story 7383534785205054809
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
 * thanks
     - utter_thanks
-* goodbye
-    - utter_goodbye
 * goodbye
     - utter_goodbye
+
+## Generated Story 5465397905157259955
 * greet
     - utter_greet
 * greet
     - utter_meetup
 * deny
     - utter_deny
-
-## Generated Story -6536929540200776482
 * greet
     - utter_greet
 * meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* greet
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks+goodbye
+* thanks
     - utter_thanks
+* goodbye
     - utter_goodbye
+
+## Generated Story -576598117107514177
 * greet
     - utter_greet
 * meetup
@@ -5199,43 +5161,45 @@
     - utter_confirm
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 * greet
     - utter_greet
+* greet
+    - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story 1936744610555703250
+## Generated Story 8700000114754507956
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
-* goodbye
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
     - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story -4176992749845638515
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
+## Generated Story -4454977333110510872
 * greet
     - utter_greet
 * greet
@@ -5248,19 +5212,26 @@
     - utter_thanks
 * goodbye
     - utter_goodbye
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story -4015956103327690977
+## Generated Story 4695295011741887542
+* thanks+goodbye
+    - utter_goodbye
 * greet
     - utter_greet
 * meetup
@@ -5276,12 +5247,14 @@
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* goodbye
+* thanks+goodbye
+    - utter_thanks
     - utter_goodbye
+
+## Generated Story 4603898758323301051
 * greet
     - utter_greet
 * meetup
@@ -5290,90 +5263,62 @@
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks+goodbye
-    - utter_thanks
-    - utter_goodbye
-
-## Generated Story -7058036493129762006
-* meetup
-    - utter_meetup
 * goodbye
     - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
-    - utter_thanks
     - utter_goodbye
-
-## Generated Story 3741659628846760922
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_confirm
+    - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
+
+## Generated Story -4999656029038920655
 * greet
     - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
-    - utter_goodbye
-
-## Generated Story -2114873322683720501
-* goodbye
     - utter_goodbye
-* greet
-    - utter_greet
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story 6316519018899511188
-* thanks+goodbye
-    - utter_goodbye
-* meetup
-    - utter_meetup
+## Generated Story -4425451026026771105
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
-    - utter_thanks
     - utter_goodbye
-
-## Generated Story -1667572614636124405
 * meetup
     - utter_meetup
 * greet
@@ -5386,19 +5331,20 @@
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
+
+## Generated Story 6175102100760215569
 * greet
     - utter_greet
-* meetup
+* greet
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks+goodbye
+* thanks
     - utter_thanks
+* goodbye
     - utter_goodbye
-
-## Generated Story -3759813987644632548
 * greet
     - utter_greet
 * meetup
@@ -5411,10 +5357,16 @@
     - utter_goodbye
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* deny
-    - utter_deny
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
+    - utter_thanks
+    - utter_goodbye
+
+## Generated Story -1319836340646220836
 * greet
     - utter_greet
 * meetup
@@ -5423,35 +5375,29 @@
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* goodbye
     - utter_goodbye
-
-## Generated Story 9075363082036522531
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-* greet
-    - utter_greet
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story -2852253366221602758
+## Generated Story -7269500786049335181
 * greet
     - utter_greet
 * greet
@@ -5466,39 +5412,26 @@
     - utter_goodbye
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
+* thanks+goodbye
     - utter_thanks
-* goodbye
     - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story -2314438661269204563
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
-* affirm
-    - utter_confirm
-* ask_transport
-    - utter_suggest_transport
-* thanks
-    - utter_thanks
+## Generated Story -6066872560030140852
 * goodbye
     - utter_goodbye
 * meetup
@@ -5507,50 +5440,47 @@
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story 4723572297011106280
-* greet
-    - utter_greet
+## Generated Story 1261603667806345831
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story -6867834859314111077
-* meetup
-    - utter_meetup
+## Generated Story -5552938298677265534
 * greet
     - utter_greet
-* meetup
+* greet
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
-* thanks+goodbye
-    - utter_goodbye
+* deny
+    - utter_deny
 * greet
     - utter_greet
 * meetup
@@ -5559,11 +5489,8 @@
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* goodbye
     - utter_goodbye
-
-## Generated Story 8310536716526780846
 * greet
     - utter_greet
 * meetup
@@ -5574,55 +5501,53 @@
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
+
+## Generated Story 1492282848449890651
 * meetup
     - utter_meetup
 * greet
     - utter_greet
+* greet
+    - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story -3288558183293858628
+## Generated Story -6416104684290891677
 * greet
     - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
 * greet
     - utter_greet
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story -4122423445918944868
+## Generated Story -6800826843191738633
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
-    - utter_confirm
-* ask_transport
-    - utter_suggest_transport
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
 * greet
     - utter_greet
 * meetup
@@ -5631,69 +5556,91 @@
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks+goodbye
-    - utter_thanks
+* goodbye
     - utter_goodbye
-
-## Generated Story 5051738985826707928
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
+* thanks+goodbye
     - utter_thanks
-* goodbye
     - utter_goodbye
-* greet
-    - utter_greet
-* greet
+
+## Generated Story 4394606793131171133
+* meetup
     - utter_meetup
-* deny
-    - utter_deny
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story 4009525121096777799
+## Generated Story -6057198425318159654
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* affirm
-    - utter_confirm
-* ask_transport
-    - utter_suggest_transport
-* thanks
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
+* thanks+goodbye
     - utter_thanks
-* goodbye
-    - utter_goodbye
-* goodbye
     - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
+    - utter_suggest_transport
+* thanks+goodbye
+    - utter_thanks
+    - utter_goodbye
+* greet
+    - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
+    - utter_thanks
+    - utter_goodbye
+
+## Generated Story 9213406118184815438
+* meetup
+    - utter_meetup
+* greet
+    - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
+    - utter_thanks
+    - utter_goodbye
+* greet
+    - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_confirm
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story 3197833611350341554
+## Generated Story 7824676166079290344
 * greet
     - utter_greet
 * greet
@@ -5702,16 +5649,25 @@
     - utter_deny
 * greet
     - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
+    - utter_goodbye
 * greet
+    - utter_greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
+* thanks+goodbye
     - utter_thanks
-* goodbye
     - utter_goodbye
+
+## Generated Story 1443704544046714184
 * greet
     - utter_greet
 * greet
@@ -5723,20 +5679,56 @@
 * thanks
     - utter_thanks
 * goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story -736147324609897124
+## Generated Story 1179611423439449424
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
+* thanks+goodbye
+    - utter_goodbye
+
+## Generated Story -1069145608035595536
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
+* thanks+goodbye
+    - utter_thanks
+    - utter_goodbye
+* thanks+goodbye
+    - utter_goodbye
+
+## Generated Story 6008588996058098088
+* meetup
+    - utter_meetup
+* meetup
+    - utter_meetup
 * thanks+goodbye
     - utter_goodbye
+
+## Generated Story -3299425624166795479
 * greet
     - utter_greet
 * greet
@@ -5749,10 +5741,6 @@
     - utter_thanks
 * goodbye
     - utter_goodbye
-
-## Generated Story 3735045054054986993
-* meetup
-    - utter_meetup
 * greet
     - utter_greet
 * meetup
@@ -5762,25 +5750,53 @@
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
+    - utter_goodbye
+* thanks+goodbye
     - utter_goodbye
+
+## Generated Story -3566233582876146982
 * greet
     - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
+* thanks+goodbye
+    - utter_thanks
+    - utter_goodbye
 * greet
+    - utter_greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
+* thanks+goodbye
     - utter_thanks
-* goodbye
+    - utter_goodbye
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story -7628849562971668652
+## Generated Story 8175499060019726394
 * greet
     - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
 * greet
     - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
+    - utter_goodbye
+* thanks+goodbye
+    - utter_goodbye
+
+## Generated Story -4951584428909946259
 * greet
     - utter_greet
 * greet
@@ -5793,8 +5809,6 @@
     - utter_thanks
 * goodbye
     - utter_goodbye
-
-## Generated Story 8539001272661589869
 * greet
     - utter_greet
 * meetup
@@ -5804,7 +5818,27 @@
 * ask_transport
     - utter_suggest_transport
 * goodbye
+    - utter_goodbye
+* thanks+goodbye
+    - utter_goodbye
+
+## Generated Story -6474144363493801679
+* meetup
+    - utter_meetup
+* greet
+    - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
+    - utter_thanks
+    - utter_goodbye
+* thanks+goodbye
     - utter_goodbye
+
+## Generated Story 6166546379215218897
 * greet
     - utter_greet
 * greet
@@ -5813,18 +5847,43 @@
     - utter_deny
 * greet
     - utter_greet
+* thanks+goodbye
+    - utter_goodbye
+
+## Generated Story -7008879978405517396
+* meetup
+    - utter_meetup
 * greet
+    - utter_greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
+* thanks+goodbye
+    - utter_goodbye
+* thanks+goodbye
+    - utter_goodbye
+
+## Generated Story 1179021491542178134
+* greet
+    - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
     - utter_thanks
-* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story -193819108532190855
+## Generated Story -7875125098601665111
+* thanks+goodbye
+    - utter_goodbye
 * greet
     - utter_greet
 * meetup
@@ -5835,84 +5894,124 @@
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
+    - utter_goodbye
+* thanks+goodbye
     - utter_goodbye
+
+## Generated Story -2042578423075389355
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* deny
-    - utter_deny
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
+* thanks+goodbye
+    - utter_thanks
+    - utter_goodbye
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
 * goodbye
+    - utter_goodbye
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story 5032376718257607006
+## Generated Story -7970210410270550974
 * greet
     - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
+    - utter_goodbye
+* meetup
+    - utter_meetup
+* thanks+goodbye
+    - utter_goodbye
+
+## Generated Story -5991612992858607457
 * greet
+    - utter_greet
+* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
 * goodbye
     - utter_goodbye
-* goodbye
+* greet
+    - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
+    - utter_goodbye
+* thanks+goodbye
     - utter_goodbye
+
+## Generated Story 4142889746665065425
 * greet
     - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
 * greet
+    - utter_greet
+* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
 * goodbye
     - utter_goodbye
-
-## Generated Story 2759428687643432025
 * thanks+goodbye
+    - utter_goodbye
+
+## Generated Story 4024397523006728172
+* goodbye
     - utter_goodbye
 * meetup
     - utter_meetup
+* thanks+goodbye
+    - utter_goodbye
+
+## Generated Story -5273251992529812699
 * greet
     - utter_greet
 * greet
+    - utter_greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
+* thanks+goodbye
     - utter_thanks
-* goodbye
+    - utter_goodbye
+* thanks+goodbye
     - utter_goodbye
 
-## Generated Story 5164414015328081257
+## Generated Story -3983308861155291308
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* affirm
-    - utter_confirm
-* ask_transport
-    - utter_suggest_transport
-* thanks
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
+* thanks+goodbye
     - utter_thanks
-* goodbye
     - utter_goodbye
 * greet
     - utter_greet
@@ -5920,6 +6019,10 @@
     - utter_meetup
 * deny
     - utter_deny
+* thanks+goodbye
+    - utter_goodbye
+
+## Generated Story -3395990732106265636
 * greet
     - utter_greet
 * greet
@@ -5932,10 +6035,30 @@
     - utter_thanks
 * goodbye
     - utter_goodbye
-
-## Generated Story -8509929739271266167
+* greet
+    - utter_greet
 * meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_confirm
+    - utter_suggest_transport
+* thanks+goodbye
+    - utter_thanks
+    - utter_goodbye
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
+
+## Generated Story 5249194909225222068
+* greet
+    - utter_greet
+* greet
     - utter_meetup
+* deny
+    - utter_deny
 * greet
     - utter_greet
 * meetup
@@ -5945,38 +6068,63 @@
     - utter_suggest_transport
 * thanks+goodbye
     - utter_goodbye
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
+
+## Generated Story -1958234309986472785
 * greet
     - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
 * greet
+    - utter_greet
+* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
 * goodbye
     - utter_goodbye
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
 
-## Generated Story 8208526439829545923
+## Generated Story -681430803682093635
 * greet
     - utter_greet
-* goodbye
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
+* thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 * greet
     - utter_greet
 * greet
     - utter_meetup
-* affirm
-    - utter_confirm
-* ask_transport
-    - utter_suggest_transport
-* thanks
-    - utter_thanks
-* goodbye
-    - utter_goodbye
+* deny
+    - utter_deny
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
 
-## Generated Story 4964217599236744875
+## Generated Story -3664493905219530843
+* thanks+goodbye
+    - utter_goodbye
 * greet
     - utter_greet
 * meetup
@@ -5988,6 +6136,14 @@
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
+
+## Generated Story 7122747009600736502
 * greet
     - utter_greet
 * meetup
@@ -5997,28 +6153,66 @@
     - utter_suggest_transport
 * thanks+goodbye
     - utter_goodbye
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
 * greet
     - utter_meetup
-* affirm
+* deny
+    - utter_deny
+
+## Generated Story 2341016253574954760
+* greet
+    - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
+* thanks+goodbye
     - utter_thanks
-* goodbye
     - utter_goodbye
+* greet
+    - utter_greet
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
 
-## Generated Story -4900786226019012340
+## Generated Story -650560603136908984
+* meetup
+    - utter_meetup
+* greet
+    - utter_greet
 * greet
     - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
+
+## Generated Story 8262605971708138816
 * meetup
     - utter_meetup
-* affirm
-    - utter_confirm
-* ask_transport
-    - utter_suggest_transport
+* meetup
+    - utter_meetup
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
+
+## Generated Story 4783186266514293873
+* greet
+    - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
@@ -6036,16 +6230,39 @@
     - utter_greet
 * greet
     - utter_meetup
-* affirm
+* deny
+    - utter_deny
+
+## Generated Story 3204982861884366442
+* greet
+    - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
+* thanks+goodbye
+    - utter_thanks
+    - utter_goodbye
+* greet
+    - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
+* thanks+goodbye
     - utter_thanks
-* goodbye
     - utter_goodbye
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
 
-## Generated Story 5592089958519660268
+## Generated Story -5923282212420548817
+* greet
+    - utter_greet
 * greet
     - utter_greet
 * meetup
@@ -6056,26 +6273,41 @@
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-* meetup
-    - utter_meetup
 * greet
     - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
+
+## Generated Story -7797563720918503598
 * greet
+    - utter_greet
+* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
 * goodbye
     - utter_goodbye
-
-## Generated Story 2857988513892399372
-* goodbye
+* greet
+    - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
+* thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 * greet
     - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
+
+## Generated Story 8082786211637662337
 * greet
     - utter_greet
 * greet
@@ -6088,12 +6320,20 @@
     - utter_thanks
 * goodbye
     - utter_goodbye
-
-## Generated Story 2157683957298857707
-* meetup
+* greet
+    - utter_greet
+* greet
     - utter_meetup
-* goodbye
-    - utter_goodbye
+* deny
+    - utter_deny
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
+
+## Generated Story 3757420763204097287
 * greet
     - utter_greet
 * greet
@@ -6106,69 +6346,82 @@
     - utter_thanks
 * goodbye
     - utter_goodbye
-
-## Generated Story 5984155858306870041
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
 * goodbye
     - utter_goodbye
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
+
+## Generated Story -667493944129632942
 * meetup
     - utter_meetup
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
+* thanks+goodbye
     - utter_thanks
+    - utter_goodbye
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
+
+## Generated Story -669833871779570636
 * goodbye
     - utter_goodbye
+* meetup
+    - utter_meetup
+* greet
+    - utter_greet
+* greet
+    - utter_meetup
+* deny
+    - utter_deny
 
-## Generated Story -5810624567191519714
+## Generated Story -1190324995733682532
 * greet
     - utter_greet
-* meetup
+* greet
     - utter_meetup
-* affirm+ask_transport
-    - utter_confirm_suggest_transport
-* thanks+goodbye
-    - utter_thanks
-    - utter_goodbye
+* deny
+    - utter_deny
 * greet
     - utter_greet
 * greet
     - utter_greet
 * greet
     - utter_meetup
-* affirm
-    - utter_confirm
-* ask_transport
-    - utter_suggest_transport
-* thanks
-    - utter_thanks
-* goodbye
-    - utter_goodbye
+* deny
+    - utter_deny
 
-## Generated Story 5225374478677866224
+## Generated Story 8655175948259477465
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_confirm
+    - utter_suggest_transport
 * thanks+goodbye
-    - utter_thanks
     - utter_goodbye
 * greet
     - utter_greet
@@ -6176,88 +6429,64 @@
     - utter_meetup
 * deny
     - utter_deny
+
+## Generated Story 5577645367509131455
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
 * goodbye
     - utter_goodbye
-
-## Generated Story -7040492399373155040
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
-* goodbye
+* thanks+goodbye
     - utter_goodbye
 * greet
     - utter_greet
 * greet
     - utter_meetup
-* affirm
-    - utter_confirm
-* ask_transport
-    - utter_suggest_transport
-* thanks
-    - utter_thanks
-* goodbye
-    - utter_goodbye
+* deny
+    - utter_deny
+
+## Generated Story 6565457115924006702
 * greet
     - utter_greet
 * greet
     - utter_meetup
-* affirm
-    - utter_confirm
-* ask_transport
-    - utter_suggest_transport
-* thanks
-    - utter_thanks
-* goodbye
-    - utter_goodbye
-
-## Generated Story -457184088959611970
+* deny
+    - utter_deny
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
 * affirm
     - utter_confirm
 * ask_transport
     - utter_suggest_transport
-* thanks
-    - utter_thanks
 * goodbye
     - utter_goodbye
-* meetup
-    - utter_meetup
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story -1404831470294540293
-* greet
-    - utter_greet
-* goodbye
-    - utter_goodbye
+## Generated Story 7983123933991886237
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
 * meetup
@@ -6265,27 +6494,19 @@
 * affirm+ask_transport
     - utter_confirm
     - utter_suggest_transport
-* thanks+goodbye
-    - utter_thanks
-    - utter_goodbye
-
-## Generated Story -9195108316225135393
 * thanks+goodbye
     - utter_goodbye
-* meetup
-    - utter_meetup
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story 7636229588961527274
+## Generated Story 410414495337332387
 * greet
     - utter_greet
 * greet
@@ -6298,6 +6519,14 @@
     - utter_thanks
 * goodbye
     - utter_goodbye
+* greet
+    - utter_greet
+* meetup
+    - utter_meetup
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
 * goodbye
     - utter_goodbye
 * greet
@@ -6305,17 +6534,18 @@
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story 2604774741226811657
+## Generated Story -2020549458418496854
 * greet
     - utter_greet
 * greet
-    - utter_greet
+    - utter_meetup
+* deny
+    - utter_deny
 * greet
     - utter_greet
 * meetup
@@ -6324,51 +6554,58 @@
     - utter_confirm
     - utter_suggest_transport
 * thanks+goodbye
-    - utter_thanks
     - utter_goodbye
-
-## Generated Story 4061515515555743142
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-* greet
-    - utter_greet
+
+## Generated Story 7098174889050616404
+* meetup
+    - utter_meetup
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story -1484780535928389135
-* meetup
-    - utter_meetup
+## Generated Story 3629762129971134040
 * goodbye
     - utter_goodbye
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story -6710138795583191287
+## Generated Story 997977887969953973
+* greet
+    - utter_greet
 * meetup
     - utter_meetup
+* affirm
+    - utter_confirm
+* ask_transport
+    - utter_suggest_transport
+* goodbye
+    - utter_goodbye
 * greet
     - utter_greet
 * meetup
@@ -6377,20 +6614,18 @@
     - utter_confirm
     - utter_suggest_transport
 * thanks+goodbye
-    - utter_thanks
     - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story 8074915570878487535
+## Generated Story -2749411695968321573
 * greet
     - utter_greet
 * meetup
@@ -6403,22 +6638,24 @@
     - utter_goodbye
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* deny
-    - utter_deny
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
+* thanks+goodbye
+    - utter_thanks
+    - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story 7718447190566062575
+## Generated Story -8148321006842821536
 * greet
     - utter_greet
 * greet
@@ -6433,55 +6670,51 @@
     - utter_goodbye
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
+* thanks+goodbye
     - utter_thanks
-* goodbye
     - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story -118038685747790622
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
+## Generated Story -5531620019609396489
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-
-## Generated Story 7017856964838320035
-* meetup
+* greet
+    - utter_greet
+* greet
     - utter_meetup
+* deny
+    - utter_deny
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
+
+## Generated Story 8894151064382913038
 * greet
     - utter_greet
 * meetup
@@ -6490,47 +6723,45 @@
     - utter_confirm
     - utter_suggest_transport
 * thanks+goodbye
-    - utter_thanks
     - utter_goodbye
-
-## Generated Story 4634196691558917630
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
-    - utter_confirm
-* ask_transport
-    - utter_suggest_transport
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
+
+## Generated Story 6918178233486832294
 * greet
     - utter_greet
 * greet
     - utter_meetup
 * deny
     - utter_deny
+* greet
+    - utter_greet
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story 4529199878074062799
+## Generated Story -7551076289087426391
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
-    - utter_confirm
-* ask_transport
-    - utter_suggest_transport
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
@@ -6542,49 +6773,42 @@
     - utter_confirm
     - utter_suggest_transport
 * thanks+goodbye
+    - utter_thanks
     - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story -1123707576607014895
-* greet
-    - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
+## Generated Story 6469334271690287694
 * greet
     - utter_greet
-* greet
+* meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
-* thanks
+* thanks+goodbye
     - utter_thanks
-* goodbye
     - utter_goodbye
+* greet
+    - utter_greet
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story 7621559165602884695
+## Generated Story 2659096214293037290
 * greet
     - utter_greet
 * greet
@@ -6608,20 +6832,20 @@
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story -5628601041593721013
+## Generated Story 6616552539492421824
+* meetup
+    - utter_meetup
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
+* affirm+ask_transport
     - utter_confirm
-* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
@@ -6630,86 +6854,84 @@
     - utter_greet
 * meetup
     - utter_meetup
-* affirm
-    - utter_confirm
-* ask_transport
-    - utter_suggest_transport
-* goodbye
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
+* thanks+goodbye
+    - utter_thanks
     - utter_goodbye
+
+## Generated Story 2003875407682743459
+* thanks+goodbye
+    - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-
-## Generated Story -2307315502088226844
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-* meetup
-    - utter_meetup
+
+## Generated Story 5114926146582773414
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
-
-## Generated Story 3209080424740192579
-* greet
-    - utter_greet
 * greet
     - utter_greet
 * meetup
     - utter_meetup
-* affirm+ask_transport
+* affirm
     - utter_confirm
+* ask_transport
     - utter_suggest_transport
-* thanks+goodbye
+* goodbye
     - utter_goodbye
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm
-    - utter_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
 
-## Generated Story 2047688518202417654
+## Generated Story 7610260913420726667
+* meetup
+    - utter_meetup
+* greet
+    - utter_greet
 * greet
     - utter_greet
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye
+
+## Generated Story 5013603482757580344
 * greet
     - utter_greet
-* greet
-    - utter_meetup
-* deny
-    - utter_deny
 * greet
     - utter_greet
 * meetup
@@ -6717,6 +6939,15 @@
 * affirm+ask_transport
     - utter_confirm
     - utter_suggest_transport
+* thanks+goodbye
+    - utter_thanks
+    - utter_goodbye
+* greet
+    - utter_greet
+* meetup
+    - utter_meetup
+* affirm+ask_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
     - utter_thanks
     - utter_goodbye

@@ -24,7 +24,7 @@
 * meetup
     - utter_meetup
 * affirm+ask_transport
-    - utter_confirm_suggest_transport
+    - utter_affirm_suggest_transport
 * thanks+goodbye
 	- utter_thanks
 	- utter_goodbye

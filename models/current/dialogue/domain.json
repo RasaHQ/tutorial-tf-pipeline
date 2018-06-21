@@ -15,7 +15,7 @@
     "prev_utter_goodbye",
     "prev_utter_confirm",
     "prev_utter_meetup",
-    "prev_utter_confirm_suggest_transport",
+    "prev_utter_affirm_suggest_transport",
     "prev_utter_suggest_transport",
     "prev_utter_thanks",
     "prev_utter_deny"

@@ -23,7 +23,7 @@ templates:
     - "Great, just made an RSVP for you."
   utter_meetup:
     - "Rasa Bots Berlin meetup is definitely worth checking out! They are having an event today at Behrenstraße 42. Would you like to join?"
-  utter_confirm_suggest_transport:
+  utter_affirm_suggest_transport:
     - "Great, I have just booked a spot for you. The venue is close to the Berlin Friedrichstraße station, you can get there by catching U-Bahn U6."
   utter_suggest_transport:
     - "The venue is close to the Berlin Friedrichstraße station, so the best option is to catch a U-Bahn U6."
@@ -39,7 +39,7 @@ actions:
   - utter_goodbye
   - utter_confirm
   - utter_meetup
-  - utter_confirm_suggest_transport
+  - utter_affirm_suggest_transport
   - utter_suggest_transport
   - utter_thanks
   - utter_deny

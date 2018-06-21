@@ -4,7 +4,7 @@ action_names:
 - utter_goodbye
 - utter_confirm
 - utter_meetup
-- utter_confirm_suggest_transport
+- utter_affirm_suggest_transport
 - utter_suggest_transport
 - utter_thanks
 - utter_deny
@@ -13,7 +13,7 @@ actions:
 - utter_goodbye
 - utter_confirm
 - utter_meetup
-- utter_confirm_suggest_transport
+- utter_affirm_suggest_transport
 - utter_suggest_transport
 - utter_thanks
 - utter_deny
@@ -32,12 +32,12 @@ intents:
 - deny
 slots: {}
 templates:
+  utter_affirm_suggest_transport:
+  - text: Great, I have just booked a spot for you. The venue is close to the Berlin
+      Friedrichstraße station, you can get there by catching U-Bahn U6.
   utter_confirm:
   - text: Done - I have just booked you a spot at the Bots Berlin meetup.
   - text: Great, just made an RSVP for you.
-  utter_confirm_suggest_transport:
-  - text: Great, I have just booked a spot for you. The venue is close to the Berlin
-      Friedrichstraße station, you can get there by catching U-Bahn U6.
   utter_deny:
   - text: That's a shame. Let me know if you change your mind.
   utter_goodbye:
