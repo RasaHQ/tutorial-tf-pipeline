@@ -22,7 +22,7 @@ In order to keep the main focus on the usage of the new pipeline and to ensure t
 
 * Python 3.6  
 * Rasa NLU 0.12.3  
-* Rasa Core 0.9.3  
+* Rasa Core 0.9.6  
 
 ## How to use this repository:
 1. Clone or download the repository and install Rasa NLU and Rasa Core:
