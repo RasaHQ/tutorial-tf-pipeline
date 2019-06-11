@@ -1,2 +1,0 @@
-rasa_nlu==0.12.3
-rasa_core==0.9.6
