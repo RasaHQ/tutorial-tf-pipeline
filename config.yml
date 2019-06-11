@@ -1,5 +1,17 @@
+language: en
 pipeline:
-- name: "CountVectorsFeaturizer"
-- name: "EmbeddingIntentClassifier"
+- name: CountVectorsFeaturizer
+- intent_split_symbol: +
   intent_tokenization_flag: true
-  intent_split_symbol: "+"
+  name: EmbeddingIntentClassifier
+policies:
+- batch_size: 50
+  epochs: 200
+  max_training_samples: 300
+  name: KerasPolicy
+- fallback_action_name: action_default_fallback
+  name: FallbackPolicy
+- max_history: 5
+  name: MemoizationPolicy
+- name: FormPolicy
+- name: MappingPolicy

@@ -1,2 +1,0 @@
-model_checkpoint_path: "C:\\Users\\justi\\Desktop\\how_to_multi_intent\\models\\current\\nlu_model\\intent_classifier_tensorflow_embedding.ckpt"
-all_model_checkpoint_paths: "C:\\Users\\justi\\Desktop\\how_to_multi_intent\\models\\current\\nlu_model\\intent_classifier_tensorflow_embedding.ckpt"
