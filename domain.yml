@@ -12,26 +12,26 @@ intents:
 
 templates:
   utter_greet:
-    - "Hey, how can I help you?"
+    - text: "Hey, how can I help you?"
   utter_goodbye:
-    - "Talk to you later!"
-    - "Goodbye :("
-    - "Bye!"
-    - "Have a great day!"
+    - text: "Talk to you later!"
+    - text: "Goodbye :("
+    - text: "Bye!"
+    - text: "Have a great day!"
   utter_confirm:
-    - "Done - I have just booked you a spot at the Bots Berlin meetup."
-    - "Great, just made an RSVP for you."
+    - text: "Done - I have just booked you a spot at the Bots Berlin meetup."
+    - text: "Great, just made an RSVP for you."
   utter_meetup:
-    - "Rasa Bots Berlin meetup is definitely worth checking out! They are having an event today at Behrenstraße 42. Would you like to join?"
+    - text: "Rasa Bots Berlin meetup is definitely worth checking out! They are having an event today at Behrenstraße 42. Would you like to join?"
   utter_affirm_suggest_transport:
-    - "Great, I have just booked a spot for you. The venue is close to the Berlin Friedrichstraße station, you can get there by catching U-Bahn U6."
+    - text: "Great, I have just booked a spot for you. The venue is close to the Berlin Friedrichstraße station, you can get there by catching U-Bahn U6."
   utter_suggest_transport:
-    - "The venue is close to the Berlin Friedrichstraße station, so the best option is to catch a U-Bahn U6."
+    - text: "The venue is close to the Berlin Friedrichstraße station, so the best option is to catch a U-Bahn U6."
   utter_thanks:
-    - "You are very welcome."
-    - "Glad I could help!"
+    - text: "You are very welcome."
+    - text: "Glad I could help!"
   utter_deny:
-    - "That's a shame. Let me know if you change your mind."
+    - text: "That's a shame. Let me know if you change your mind."
 
 
 actions:
