@@ -1,5 +1,5 @@
 pipeline:
-- name: "intent_featurizer_count_vectors"
-- name: "intent_classifier_tensorflow_embedding"
+- name: "CountVectorsFeaturizer"
+- name: "EmbeddingIntentClassifier"
   intent_tokenization_flag: true
   intent_split_symbol: "+"
