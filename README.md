@@ -21,25 +21,24 @@ In order to keep the main focus on the usage of the new pipeline and to ensure t
 ## Versions of the software used in this tutorial:
 
 * Python 3.6  
-* Rasa NLU 0.12.3  
-* Rasa Core 0.9.6  
+* Rasa 1.0.6  
+
 
 ## How to use this repository:
-1. Clone or download the repository and install Rasa NLU and Rasa Core:
+1. Clone or download the repository and install Rasa:
 ```
-pip install -r requirements.txt
+pip install rasa-x --extra-index-url https://pypi.rasa.com/simple
 ```
 2. Follow a step-by-step tutorial [here](https://blog.rasa.com/how-to-handle-multiple-intents-per-input-using-rasa-nlu-tensorflow-pipeline/).
 3. At any time you can load the chatbot and test it on your local machine:
 ```
-python -m rasa_core.run -d models/current/dialogue -u models/current/nlu_model
+rasa shell
 ```
 
 
 ## Useful resources:
-* [Rasa NLU installation](https://nlu.rasa.com/installation.html) - guidelines on how to install Rasa NLU.
-* [Rasa Core installation](https://core.rasa.com/installation.html) - guidelines on how to install Rasa Core.
+* [Rasa installation](https://rasa.com/docs/rasa/user-guide/installation/) - guidelines on how to install Rasa.
 * [Supervised Word Vectors from Scratch in Rasa NLU](https://medium.com/rasa-blog/supervised-word-vectors-from-scratch-in-rasa-nlu-6daf794efcd8) - Rasa blog post on the new TensorFlow pipeline.
-* [Docs: Processing Pipeline](https://nlu.rasa.com/pipeline.html) - Official Rasa documentation on processing pipelines.
+* [Docs: Processing Pipeline](https://rasa.com/docs/rasa/nlu/choosing-a-pipeline/) - Official Rasa documentation on processing pipelines.
 * [Rasa Community Forum](https://forum.rasa.com) - A place where the Rasa community meets.
 
